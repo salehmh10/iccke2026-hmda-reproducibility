@@ -1,0 +1,4 @@
+component,frozen_weight,mean_component_prediction,mean_weighted_prediction_contribution,explanation_space,maximum_native_additivity_error,note
+catboost,0.6,240.5049914772139,144.30299488632835,raw loan amount (thousand USD),4.320099833421409e-12,Weighted model prediction contribution; not a SHAP feature contribution.
+lightgbm,0.2,240.73746852246228,48.147493704492454,raw loan amount (thousand USD),1.1596057447604835e-11,Weighted model prediction contribution; not a SHAP feature contribution.
+xgboost,0.2,234.08895881547858,46.81779176309572,native log1p target space,2.5337668830616167e-05,Weighted model prediction contribution; not a SHAP feature contribution.

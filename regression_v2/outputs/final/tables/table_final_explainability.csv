@@ -1,0 +1,46 @@
+Component,Rank,Feature,Importance / rank score,Explanation space,Interpretation role
+Global consensus,1,applicant_income_000s,0.9823529411764704,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,2,lien_status_name,0.9176470588235294,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,3,loan_purpose_name,0.8705882352941177,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,4,msamd_name,0.8647058823529412,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,5,owner_occupancy_name,0.8352941176470587,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,6,tract_to_msamd_income,0.7941176470588236,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,7,loan_type_name,0.7411764705882353,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,8,hud_median_family_income,0.7352941176470589,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,9,us_region,0.7294117647058824,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,10,county_name,0.6941176470588235,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,11,agency_name,0.6823529411764707,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,12,log1p_applicant_income,0.6588235294117647,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,13,census_tract_number,0.6235294117647059,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,14,has_co_applicant,0.5705882352941176,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Global consensus,15,tract_income_level,0.5647058823529412,rank consensus across separate native component spaces,Global loan-amount prediction driver
+Meta-Gate,1,global_prediction_feature,1.2850388229184737,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,2,log1p_applicant_income,0.3382233083761024,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,3,applicant_income_000s,0.2913303336133503,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,4,agency_name,0.2906279136099275,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,5,county_name,0.2167480842251615,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,6,msamd_name,0.2112486874259928,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,7,census_tract_number,0.1940007488383966,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,8,loan_type_name,0.1903105332696559,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,9,applicant_income_area_group,0.162736074927516,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,10,loan_purpose_name,0.1344312776688264,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,11,applicant_income_to_area_income,0.1209612591030931,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,12,state_code,0.1061134610453468,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,13,owner_occupancy_name,0.1033932718648221,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,14,state_abbr,0.0926013538835138,native CatBoost log-odds routing space,Routing driver
+Meta-Gate,15,lien_status_name,0.0775220486003155,native CatBoost log-odds routing space,Routing driver
+Residual Specialist,1,global_prediction_feature,128.322917625587,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,2,applicant_income_to_area_income,16.587013187031626,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,3,loan_purpose_name,11.00736699361402,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,4,agency_name,10.781762025288156,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,5,msamd_name,9.71631595199196,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,6,owner_occupancy_name,7.279683104354324,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,7,loan_type_name,7.055823038389345,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,8,log1p_applicant_income,5.045885332808158,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,9,state_abbr,4.900693416855406,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,10,census_tract_number,4.615302067436331,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,11,applicant_income_area_group,4.507170532372755,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,12,state_name,4.40332971010813,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,13,applicant_income_000s,3.716503235762153,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,14,us_region,3.5651643428002684,raw residual-correction space (thousand USD),Residual-correction driver
+Residual Specialist,15,state_code,3.337913429816997,raw residual-correction space (thousand USD),Residual-correction driver

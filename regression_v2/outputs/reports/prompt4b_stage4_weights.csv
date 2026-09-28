@@ -1,0 +1,17 @@
+candidate_id,member,weight,optimization,lambda_tail,status
+ens_tail_weighted_l1p25,catboost,0.5151797909590021,tail_weighted_mae,1.25,COMPLETE
+ens_tail_weighted_l1p25,lightgbm,0.15942850757212687,tail_weighted_mae,1.25,COMPLETE
+ens_tail_weighted_l1p25,xgboost,0.22313592108030028,tail_weighted_mae,1.25,COMPLETE
+ens_tail_weighted_l1p25,fttransformer,0.1022557803885708,tail_weighted_mae,1.25,COMPLETE
+ens_tail_weighted_l1p5,catboost,0.5374611471820353,tail_weighted_mae,1.5,COMPLETE
+ens_tail_weighted_l1p5,lightgbm,0.18099960692677627,tail_weighted_mae,1.5,COMPLETE
+ens_tail_weighted_l1p5,xgboost,0.1950233733953011,tail_weighted_mae,1.5,COMPLETE
+ens_tail_weighted_l1p5,fttransformer,0.08651587249588744,tail_weighted_mae,1.5,COMPLETE
+ens_tail_weighted_l2p0,catboost,0.5638551897222672,tail_weighted_mae,2.0,COMPLETE
+ens_tail_weighted_l2p0,lightgbm,0.23440359620562268,tail_weighted_mae,2.0,COMPLETE
+ens_tail_weighted_l2p0,xgboost,0.14321578782778524,tail_weighted_mae,2.0,COMPLETE
+ens_tail_weighted_l2p0,fttransformer,0.0585254262443249,tail_weighted_mae,2.0,COMPLETE
+ens_tail_constrained_body025,catboost,0.5992056856714179,body_constrained_large_penalty,,COMPLETE
+ens_tail_constrained_body025,lightgbm,0.30429736366587673,body_constrained_large_penalty,,COMPLETE
+ens_tail_constrained_body025,xgboost,0.08445293338017663,body_constrained_large_penalty,,COMPLETE
+ens_tail_constrained_body025,fttransformer,0.012044017282528725,body_constrained_large_penalty,,COMPLETE

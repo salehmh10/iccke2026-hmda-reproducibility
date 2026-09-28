@@ -1,0 +1,79 @@
+{
+  "status": "PASS_FINAL_PROJECT_COMPLETE",
+  "created_at_utc": "2026-08-08T09:19:36.637985+00:00",
+  "authorization_id": "regression_v2_prompt5c_final_reporting",
+  "final_model": {
+    "model_id": "stage3_residual_t75_a75",
+    "deployment_id": "final_primary_stage3_500k",
+    "bundle_sha256": "5349ab15fd1c8182ef539f435cc4f065e71ee7da047de09a4dc271c9097e0c08",
+    "training_rows": 500000,
+    "feature_contract": "main_without_sensitive_without_lender",
+    "feature_count": 35
+  },
+  "global_comparator": {
+    "model_id": "ens_boost_cat060",
+    "deployment_id": "final_global_500k",
+    "bundle_sha256": "6f61a0be1fc90d2331b08dada63a453f6c5410d5783f46f1e0cbcbf425f75597"
+  },
+  "final_iid_summary": {
+    "rows": 75000,
+    "primary_mae": 62.26062600334689,
+    "global_mae": 62.444349310930285,
+    "primary_minus_global_mae": -0.18372330758339217,
+    "bootstrap_95_interval": [
+      -0.26298875484432377,
+      -0.1048113958689481
+    ],
+    "conditions_passed": 5,
+    "conditions_total": 6,
+    "failed_condition": "C2",
+    "model_changed_after_iid": false
+  },
+  "final_fairness_explainability_sha256": "2025ec95cc564238e72fbb82ac33670c0272f166cf93d46dc1aa7a59f1b890df",
+  "final_document_hashes": {
+    "outputs/final/ARTIFACT_INDEX.md": "1ed1147e2389d4a7169c2687b7ded342b14da72008cf90e9a69486692b59583b",
+    "outputs/final/FINAL_PROJECT_SUMMARY.md": "5a594984471852e04ebc14e9c3f408b7b1197540ded8571cb43b54c8fa57501f",
+    "outputs/final/FINAL_TECHNICAL_REPORT.md": "184aa505ba982045862316ecacb24cbd5eb3e601f1241c093286e5b4ce15de7b",
+    "outputs/final/MODEL_CARD_FINAL.md": "3665f64458f412092e5e8fa05de4e50b04d33d23690fe65df609f85845ff4b78",
+    "outputs/final/PAPER_LIMITATIONS_TEXT.md": "26411112dba11661b1317e451c56735c80e6d53bee1d1902616f1fd728fd2d97",
+    "outputs/final/PAPER_METHODS_TEXT.md": "a3897776e9a4422319e070fba6f34c42555e7245a3e30215f354dad6d6db17f2",
+    "outputs/final/PAPER_RESULTS_TEXT.md": "55cf2c503739b5f405a9e6a4df54a2eb08bf6e31352f2e5136f879835f18879f"
+  },
+  "table_validation_status": "PASS",
+  "table_count": 11,
+  "figure_validation_status": "PASS",
+  "figure_count": 15,
+  "consistency_status": "PASS",
+  "notebook": {
+    "path": "notebooks/05C_FINAL_PROJECT_REPORTING.ipynb",
+    "sha256": "1bddaa883a99a9aaaa7371bc8a7891febb47d27ef76354510a1dc5e360ef2825",
+    "status": "PASS"
+  },
+  "reproducibility_manifest": {
+    "path": "outputs/final/FINAL_REPRODUCIBILITY_MANIFEST.json",
+    "sha256": "f2778ddccfd1191b84738bb6caa1122e4244d2c4ecf35491da4806d2a869819e"
+  },
+  "reviewer": {
+    "status": "PASS",
+    "path": "outputs/reports/prompt5c_reviewer.json",
+    "sha256": "611b84ca6e0efa46d7545d3f40bc9d86652119a1ea49fe1acdce699cb0feb21f"
+  },
+  "verification": {
+    "status": "PASS",
+    "path": "outputs/reports/prompt5c_verification.json",
+    "sha256": "61984dd7e302114b8defaeacc795336d71de3ed0eb525e4f4e7d6a99eabfc8fc"
+  },
+  "zero_compute_science": {
+    "original_iid_content_reads": 0,
+    "fits": 0,
+    "predictions": 0,
+    "shap_recomputations": 0,
+    "bootstrap_recomputations": 0,
+    "model_changes": 0
+  },
+  "promoted_at_utc": "2026-08-08T09:19:36.648035+00:00",
+  "candidate_path": "outputs/reports/prompt5c_final_project_candidate.json",
+  "candidate_sha256": "403e890b129583971795edd1a9b1bf852d81cd7c641e78bc75cdf44824014ce1",
+  "immutable_after_promotion": true,
+  "next_step": "PROJECT COMPLETE — no further modeling or IID analysis authorized"
+}

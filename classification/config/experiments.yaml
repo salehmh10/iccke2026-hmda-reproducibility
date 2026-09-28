@@ -1,0 +1,15 @@
+seed: 20260809
+max_total_training_seconds: 43200
+target_total_training_seconds: 39600
+max_iterations: 60
+max_retries_per_error: 3
+max_review_fix_cycles: 3
+variants:
+  - original_weighted
+  - oversampled
+  - undersampled
+stages:
+  smoke_rows: 12000
+  screening_rows: 60000
+  full_rows: 200000
+

@@ -1,0 +1,10 @@
+Measure,Value,Frozen source
+IID rows,75000.0,outputs/reports/prompt5a_routing_diagnostics.csv
+Routed rows,3583.0,outputs/reports/prompt5a_routing_diagnostics.csv
+Routing rate,0.0477733333333333,outputs/reports/prompt5a_routing_diagnostics.csv
+Mean routed correction,27.773618021328854,Frozen aggregate ratio from prompt5a_routing_diagnostics.csv
+Median absolute routed correction,16.551,Prompt 5C authorization Section 7; frozen Prompt 5B mechanism restatement
+Positive correction rate,0.0436933333333333,outputs/reports/prompt5b_correction_behavior.csv
+Negative correction rate,0.00408,outputs/reports/prompt5b_correction_behavior.csv
+Zero correction rate,0.9522266666666668,outputs/reports/prompt5b_correction_behavior.csv
+Routed-row realized benefit,3.8457292963310943,outputs/reports/prompt5a_routing_diagnostics.csv

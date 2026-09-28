@@ -1,0 +1,266 @@
+sensitive_field,group_label,iid_target_decile,n,primary_mae,mean_target,median_target,cell_status,target_composition_warning
+applicant_ethnicity_name,Hispanic or Latino,D1,788,25.002387268644327,33.34517766497462,32.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D2,775,37.86418360474252,92.47870967741936,94.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D3,840,32.43876550950776,127.22738095238095,127.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D4,871,33.52110476046434,157.09414466130883,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D5,898,35.868691618181366,186.32962138084633,186.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D6,841,39.59822386428392,220.32699167657552,220.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D7,853,43.36218960291963,260.05158264947244,260.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D8,758,54.01686905987907,312.02242744063324,311.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D9,651,65.91998391323423,390.34869431643625,390.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Hispanic or Latino,D10,485,138.50988423875768,601.9463917525774,540.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D1,763,30.15263078931924,37.18741808650066,40.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D2,704,49.46589123946104,92.33664772727273,94.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D3,675,44.62028667260468,126.63555555555556,127.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D4,672,46.57926393849124,156.9047619047619,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D5,686,44.342966862356555,187.29008746355686,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D6,712,45.17395175683491,220.59831460674158,220.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D7,752,52.811069801568884,259.3125,259.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D8,793,59.54116930348321,312.2610340479193,310.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D9,831,81.77580468131762,391.6016847172082,392.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D10,986,198.82705090049456,757.5933062880324,600.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D1,6155,29.745210574884627,36.2948822095857,37.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D2,5882,41.45557554464163,92.08653519211153,93.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D3,6148,38.678094724772606,126.80156148340924,127.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D4,5786,38.502321533796795,156.79433114414104,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D5,5907,42.47325909773013,187.0169290672084,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D6,5910,45.301386423584994,220.56717428087987,220.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D7,5848,53.53849237760728,260.12448700410397,260.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D8,5978,63.68046919532169,312.45182335229174,311.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D9,5994,83.36796111229536,392.2083750417084,394.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_ethnicity_name,Not Hispanic or Latino,D10,6005,194.9980258086351,718.9084096586179,596.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D1,264,32.94490964823378,36.73863636363637,40.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D2,241,46.98495791911361,92.56016597510373,94.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D3,267,39.50073508235061,128.01498127340824,128.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D4,301,39.14401801082807,156.72757475083057,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D5,360,39.16536619016819,186.30277777777778,186.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D6,360,43.962765154748865,220.5,220.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D7,389,45.65729284825171,259.7840616966581,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D8,401,52.50842869693992,313.26184538653365,314.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D9,360,64.94919613346174,391.1138888888889,393.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Hispanic or Latino,D10,296,138.6511987757819,622.168918918919,553.5,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D1,314,29.934706323862606,39.12738853503185,41.5,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D2,288,60.875079880182334,91.57638888888889,93.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D3,322,52.04626920126475,126.42857142857143,126.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D4,298,53.240573783740345,156.8993288590604,156.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D5,323,49.229851689423164,187.80804953560371,188.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D6,380,49.056868224464125,220.95526315789473,221.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D7,413,53.95133697048889,259.94673123486683,259.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D8,447,61.212678641131106,312.02908277404924,310.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D9,486,79.9733903495924,391.1831275720165,392.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",D10,622,186.7043816514988,747.3601286173633,599.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D1,4856,26.273323416333923,35.16330313014827,35.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D2,4910,36.166503933760836,92.02484725050917,93.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D3,4896,33.63123648377174,126.66156045751634,126.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D4,4399,34.18746561456727,156.843146169584,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D5,4169,38.81613466538339,186.68265771168146,186.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D6,3901,42.236445028217545,220.34324532171237,220.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D7,3719,52.31214480326476,259.93035762301696,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D8,3587,62.914748386493876,311.8606077502091,310.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D9,3295,81.73670446325791,391.64522003034904,392.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,No co-applicant,D10,2960,192.03792873511009,710.8736486486487,589.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D1,2277,35.184725035434,37.557751427316646,39.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D2,1920,52.94541174391093,92.50364583333334,94.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D3,2173,47.491234420603526,127.1219512195122,127.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D4,2335,45.143913100495354,156.83640256959316,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D5,2639,46.24594274894891,187.38120500189467,188.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D6,2818,47.47449373900018,220.77998580553583,221.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D7,2931,52.98816902137593,260.22108495394065,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D8,3091,63.00129230530998,312.95794241345845,311.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D9,3336,83.72761997174183,392.5554556354916,395.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_ethnicity_name,Not Hispanic or Latino,D10,3598,198.0069036956481,724.6003335186215,600.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D1,72,26.727569003059905,34.90277777777778,30.5,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D2,58,39.013530940359466,92.65517241379311,93.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D3,51,39.08733005647943,126.25490196078431,127.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D4,55,40.03041603208899,157.4909090909091,158.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D5,59,35.130634607543215,187.57627118644066,190.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D6,51,38.48722315788716,220.8235294117647,221.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D7,51,46.74397914682489,261.8235294117647,260.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D8,38,62.994450636347196,308.89473684210526,305.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D9,33,63.8386200799131,392.4848484848485,395.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,American Indian or Alaska Native,D10,39,115.68814154815004,566.025641025641,560.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D1,170,29.90122840724746,35.38235294117647,35.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D2,208,50.64117223798671,93.27403846153847,95.5,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D3,293,47.3379543685433,126.90443686006826,126.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D4,287,52.938286481997196,157.38675958188153,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D5,368,50.605369356139406,187.41847826086956,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D6,422,52.76122144859873,221.13744075829385,221.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D7,456,61.565030222356,260.4013157894737,260.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D8,627,67.39185495911491,314.0749601275917,312.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D9,779,75.85020195760279,393.0590500641849,395.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Asian,D10,1182,155.78346360765588,697.9796954314721,600.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D1,666,22.644750383930337,31.555555555555557,30.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D2,533,33.31248112783273,91.2795497185741,92.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D3,568,29.133296200569944,127.25352112676056,126.5,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D4,538,30.54621329126723,156.65055762081784,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D5,550,33.317863871242345,186.05454545454546,185.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D6,512,39.97162389163124,220.5390625,221.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D7,439,45.140588677433165,259.2232346241458,258.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D8,416,56.81385119787786,312.47115384615387,311.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D9,355,79.12000853300495,390.4056338028169,389.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Black or African American,D10,223,143.63946885438372,632.7892376681615,564.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D1,784,29.389956833160685,36.14540816326531,37.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D2,736,50.095456322713865,92.41304347826087,94.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D3,734,44.6979798505784,126.7425068119891,127.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D4,755,46.802704937536724,156.98145695364238,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D5,761,45.52875363363465,186.99474375821288,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D6,766,47.075148928876324,220.48825065274153,220.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D7,804,52.54515070016115,259.7313432835821,259.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D8,881,59.93772283188175,312.41657207718504,310.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D9,901,79.55098008355314,391.7103218645949,392.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D10,1054,194.64771711206402,749.1802656546489,597.5,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Native Hawaiian or Other Pacific Islander,D6,40,49.383606743862394,220.925,221.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Native Hawaiian or Other Pacific Islander,D7,44,39.91384078635676,257.5,255.5,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Native Hawaiian or Other Pacific Islander,D8,42,58.16110523909622,310.0952380952381,306.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Native Hawaiian or Other Pacific Islander,D9,39,55.30005162796638,389.20512820512823,386.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,Native Hawaiian or Other Pacific Islander,D10,52,127.88167519940211,598.5,542.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D1,5993,30.029827845840735,36.63841148006007,38.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D2,5808,41.22427014607428,92.13464187327824,93.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D3,5991,38.23666725965371,126.81121682523786,127.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D4,5684,37.59792838627661,156.80752990851514,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D5,5727,41.68743880300643,187.00715907106687,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D6,5673,44.17193950491378,220.49850167459897,220.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D7,5661,52.22721865103829,260.11588058646885,260.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D8,5525,62.499879518170175,312.2278733031674,310.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D9,5372,83.3465806171812,391.98585256887566,394.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_race_name_1,White,D10,4928,203.35877905840636,719.9878246753246,592.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D1,50,29.88835554281096,37.04,40.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D2,69,69.03816975978249,92.92753623188406,95.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D3,106,52.139640518975256,127.33962264150944,126.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D4,128,46.023772363711416,157.0234375,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D5,157,53.63319031264445,187.80254777070064,187.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D6,179,56.203469697411755,219.9441340782123,219.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D7,182,63.04171962987619,262.0769230769231,263.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D8,291,69.28818138498406,312.35395189003435,309.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D9,378,75.56651884382114,394.37301587301585,397.5,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Asian,D10,663,177.03005628237258,745.3906485671191,628.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D1,122,28.445481287313097,31.114754098360656,27.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D2,85,40.615151983970584,92.82352941176471,95.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D3,115,38.900468006202594,128.3913043478261,128.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D4,125,35.99685572678298,156.904,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D5,144,33.721254636824355,186.41666666666666,185.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D6,149,39.17207256148531,221.05369127516778,221.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D7,134,42.129058640066155,259.82835820895525,257.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D8,147,55.64940283162864,313.0204081632653,312.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D9,141,78.36822364575565,389.7588652482269,389.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,Black or African American,D10,114,150.3181658756946,628.7368421052631,550.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D1,312,30.01198663962933,38.4775641025641,41.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D2,287,60.93184995677574,92.4006968641115,94.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D3,354,51.56796073200973,126.70056497175142,127.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D4,325,54.072156208223895,157.08307692307693,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D5,359,51.32612649934607,187.6323119777159,188.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D6,418,50.45157953510193,220.9976076555024,221.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D7,451,53.93844420516596,260.3569844789357,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D8,500,61.26484307106153,311.992,310.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D9,531,78.25564814313478,391.7815442561205,393.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",D10,664,182.36277592537127,735.1942771084338,591.5,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D1,4856,26.273323416333923,35.16330313014827,35.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D2,4910,36.166503933760836,92.02484725050917,93.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D3,4896,33.63123648377174,126.66156045751634,126.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D4,4399,34.18746561456727,156.843146169584,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D5,4169,38.81613466538339,186.68265771168146,186.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D6,3901,42.236445028217545,220.34324532171237,220.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D7,3719,52.31214480326476,259.93035762301696,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D8,3587,62.914748386493876,311.8606077502091,310.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D9,3295,81.73670446325791,391.64522003034904,392.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,No co-applicant,D10,2960,192.03792873511009,710.8736486486487,589.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D1,2343,35.35551621266147,37.973965002134015,40.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D2,1986,51.974409120665875,92.36304128902316,94.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D3,2157,46.85898503785869,127.06212331942513,127.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D4,2329,44.52431219684078,156.7698583082868,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D5,2631,45.17581158147108,187.2884834663626,188.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D6,2783,46.62766537433312,220.7391304347826,221.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D7,2909,51.86541111705708,260.0577518047439,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D8,2947,61.503323300691406,313.0200203596878,312.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D9,3081,83.35621775012066,392.2515417072379,394.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_race_name_1,White,D10,3050,200.4030482695903,717.2931147540984,592.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D1,2739,27.92905861533689,35.950711938663744,37.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D2,2699,38.085645223843166,92.4609114486847,94.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D3,2687,35.856245549307,126.67807964272423,126.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D4,2334,37.3603449755646,156.71593830334191,156.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D5,2331,40.107219128885845,186.81939081939083,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D6,2161,44.77491453763517,219.97686256362795,220.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D7,2044,51.659897776285455,259.9021526418787,260.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D8,1963,60.53066672077727,312.3586347427407,311.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D9,1760,79.5793422844469,390.4221590909091,390.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Female,D10,1405,158.24374258472574,644.8583629893238,566.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D1,497,30.1064612252348,37.028169014084504,38.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D2,488,52.43806514546444,92.62909836065573,95.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D3,445,45.81786570689955,126.44719101123596,126.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D4,446,47.3017560493027,156.91255605381167,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D5,463,44.004309753994484,187.09071274298057,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D6,432,46.81846667147553,220.3773148148148,220.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D7,471,52.12539377327403,259.6624203821656,259.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D8,489,62.353942875303844,311.6196319018405,308.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D9,522,84.36652289261399,391.6858237547893,392.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D10,623,212.92190928641588,782.8154093097913,607.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D1,4479,30.014908674814524,36.039964277740566,36.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D2,4176,43.03691874925752,91.89870689655173,93.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D3,4531,39.37883488619255,126.96380489958067,127.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D4,4556,38.47452594027283,156.89486391571555,157.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D5,4700,42.526366297941,187.0123404255319,187.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D6,4871,44.41217583814795,220.80558406897967,221.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D7,4937,52.58837542182294,260.12781041118086,260.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D8,5083,62.90767339148698,312.47412945111154,311.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D9,5198,82.15984223609811,392.553289726818,394.0,DISPLAY,Target-decile cell; descriptive only.
+applicant_sex_name,Male,D10,5451,198.1134151136883,727.1959273527793,599.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D1,1959,35.80225590683349,38.249106687085245,40.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D2,1688,51.4128779324313,92.4585308056872,94.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D3,1942,45.98748266775886,127.17662203913491,127.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D4,2115,42.69021050302743,156.94137115839243,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D5,2395,45.68385603062213,187.3340292275574,188.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D6,2565,45.82373125800695,220.93762183235867,221.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D7,2696,51.69533020087828,260.2066023738872,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D8,2869,62.69511692937852,312.8933426280934,312.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D9,3108,81.86229951213693,392.9118404118404,395.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Female,D10,3306,197.6567733324403,726.3402903811252,600.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D1,209,29.8927580876848,37.61722488038278,39.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D2,205,63.87244892661672,91.66341463414633,92.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D3,222,51.53033858668951,126.08558558558559,125.5,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D4,198,55.89597432945459,156.65151515151516,156.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D5,211,45.91320227939393,187.15165876777252,187.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D6,237,51.71841754678212,220.79324894514767,221.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D7,273,53.93739525470933,260.1501831501831,259.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D8,285,66.80260613813647,312.40701754385964,310.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D9,309,81.09564211719321,391.126213592233,390.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",D10,405,197.58609989856444,752.9481481481481,596.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D1,689,31.882173410639286,35.937590711175616,36.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D2,558,55.08981082958324,92.51433691756273,94.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D3,598,49.760235516276836,127.35451505016722,128.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D4,624,51.05837128206533,156.50480769230768,155.5,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D5,716,46.010189894313285,187.25698324022346,187.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D6,757,50.957616702169744,220.17437252311757,220.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D7,764,53.99920597163767,259.9267015706806,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D8,789,56.24912936147673,313.02154626109,312.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D9,765,81.14710881796681,390.1346405228758,389.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,Male,D10,806,168.81642704676926,682.7158808933002,582.5,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D1,4856,26.273323416333923,35.16330313014827,35.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D2,4910,36.166503933760836,92.02484725050917,93.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D3,4896,33.63123648377174,126.66156045751634,126.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D4,4399,34.18746561456727,156.843146169584,157.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D5,4169,38.81613466538339,186.68265771168146,186.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D6,3901,42.236445028217545,220.34324532171237,220.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D7,3719,52.31214480326476,259.93035762301696,260.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D8,3587,62.914748386493876,311.8606077502091,310.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D9,3295,81.73670446325791,391.64522003034904,392.0,DISPLAY,Target-decile cell; descriptive only.
+co_applicant_sex_name,No co-applicant,D10,2960,192.03792873511009,710.8736486486487,589.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D1,1768,26.840516604533203,35.35576923076923,37.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D2,1661,38.864704095989275,91.73871161950632,93.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D3,1667,37.0194292811848,126.8998200359928,126.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D4,1584,36.68775049072764,156.65404040404042,157.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D5,1634,39.09246233921784,186.61199510403918,186.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D6,1570,45.27429189880076,220.36942675159236,220.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D7,1643,49.633762943185125,260.0687766281193,260.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D8,1660,56.195550635547804,313.2536144578313,312.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D9,1740,71.20205187978611,391.4080459770115,392.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Majority minority,D10,1830,148.08850967996344,644.4781420765028,568.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D1,5951,30.0022808011799,36.287010586456056,37.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D2,5705,42.74057412965909,92.26660823838738,93.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D3,5997,38.94310615139265,126.81340670335167,127.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D4,5754,39.19496424065322,156.88981578032673,157.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D5,5861,42.66880856949821,187.0545981914349,187.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D6,5894,44.491896529421204,220.586528673227,220.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D7,5813,53.0684814968347,260.025804231894,260.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D8,5875,63.96389219282183,312.14417021276597,310.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D9,5742,84.89225073540564,392.16562173458726,394.0,DISPLAY,Target-decile cell; descriptive only.
+majority_minority_tract,Not majority minority,D10,5651,206.60735231772824,740.2926915590161,600.0,DISPLAY,Target-decile cell; descriptive only.
