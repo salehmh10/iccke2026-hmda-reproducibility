@@ -1,0 +1,45 @@
+{
+  "required_columns": [
+    "source_artifact",
+    "source_row_key",
+    "source_generation",
+    "source_evaluation_scope",
+    "evaluation_scope",
+    "scientific_status"
+  ],
+  "scientific_status": [
+    "authoritative_manuscript_result",
+    "supporting_analysis",
+    "development_only",
+    "historical",
+    "post_test_descriptive",
+    "superseded",
+    "invalid",
+    "failed_technical",
+    "not_executed",
+    "unresolved"
+  ],
+  "evaluation_scope": [
+    "screening",
+    "development",
+    "train_only_validation",
+    "out_of_fold",
+    "validation",
+    "calibration",
+    "threshold_selection",
+    "final_test",
+    "iid_evaluation",
+    "post_test",
+    "historical_test",
+    "aggregate_explainability",
+    "not_applicable"
+  ],
+  "classification_positive_class": "denial",
+  "regression_target": "loan_amount_000s",
+  "regression_mae_unit": "kUSD",
+  "unique_key": [
+    "source_generation",
+    "source_artifact",
+    "source_row_key"
+  ]
+}
