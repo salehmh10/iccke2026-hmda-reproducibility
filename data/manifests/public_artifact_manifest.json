@@ -1242,8 +1242,8 @@
     },
     {
       "relative_path": "data/manifests/notebook_redactions.json",
-      "sha256": "b6321ef30eaa156ea9175666d0e82a577c7660002a651c6d0bd9657b9a959a69",
-      "size_bytes": 14599,
+      "sha256": "08452f37e9aac9ef8da4dcc920efa67dca0bc7419065caec7bd704acc94a1d9f",
+      "size_bytes": 14062,
       "artifact_role": "aggregate_or_schema",
       "experiment_generation": "package",
       "evaluation_scope": "not_applicable",
@@ -1268,8 +1268,8 @@
     },
     {
       "relative_path": "data/manifests/publication_copies.json",
-      "sha256": "0351c656dd87d41431213c01be8afd60b2c798de92a646ef327c510ac1d55e71",
-      "size_bytes": 186731,
+      "sha256": "9c9512f108b076792540054039181d1e281cdab96208047d4557de08eefb3776",
+      "size_bytes": 180592,
       "artifact_role": "aggregate_or_schema",
       "experiment_generation": "package",
       "evaluation_scope": "not_applicable",
