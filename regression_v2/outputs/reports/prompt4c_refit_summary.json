@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "created_at_utc": "2026-08-07T19:35:58.147386+00:00",
+  "completed_roles": 11,
+  "physical_attempts": 11,
+  "technical_retries": 0,
+  "scientific_candidate_searches": 0,
+  "oof_rows": 500000,
+  "zero_self_fit_rows": 0,
+  "final_tail_rows": 49871,
+  "meta_gate_iterations": 976,
+  "residual_specialist_iterations": 791,
+  "elapsed_seconds": 2451.9922784999944
+}

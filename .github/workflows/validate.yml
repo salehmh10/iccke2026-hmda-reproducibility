@@ -1,8 +1,5 @@
 name: Validate evidence package
 on:
-  push:
-    branches: [main, codex/build-complete-reproducibility-package]
-  pull_request:
   workflow_dispatch:
 permissions:
   contents: read

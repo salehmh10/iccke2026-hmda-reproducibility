@@ -1,0 +1,8 @@
+rule_order,rule_name,exclusive_removed_rows,retained_rows,percentage_of_raw_rows,cumulative_rows_remaining,notes
+1,malformed_csv_structure,0,0,0.0,14285496,Structurally malformed CSV rows; first exclusive rule.
+2,ineligible_action,6500536,0,45.50444730795486,7784960,"Action code is not 1, 2, or 8."
+3,required_missing_like,1305782,0,9.140613668576854,6479178,At least one of the 16 required fields is missing-like.
+4,invalid_numeric_parse_or_nonfinite,0,0,0.0,6479178,Required numeric parsing failed or produced infinity.
+5,invalid_numeric_range,7548,0,0.052836807346416256,6471630,A numeric value violates the fixed positive or percentage range.
+6,invalid_categorical_code,0,0,0.0,6471630,A present categorical code is outside its fixed allowed set.
+7,retained,0,6471630,45.30210221612187,6471630,Complete cleaned eligible population; no deduplication applied.

@@ -1,15 +1,11 @@
-# Repository guardrails
+# Publication scope
 
-This private release candidate packages existing scientific evidence only.
-
-- The historical ADS-PROJECT repository and the original local source tree are read-only. All generated files belong in this repository or its separate automation workspace.
-- Never edit the accepted manuscript, figures, bibliography, author metadata, or camera-ready package. Related Work change 13 is excluded.
-- Never train, refit, tune, predict, execute scientific notebooks, reconstruct split membership, or recompute metrics, fairness, bootstrap, or explanations. Static source inspection and arithmetic on saved aggregates are allowed.
-- Never publish raw or applicant-level data, membership identifiers, row hashes, predictions, sensitive row values, executable model objects, personal paths, credentials, or caches.
-- Keep Classification V1/V2, historical classification, Regression V2, and historical Stage4L separate. Label historical, development-only, invalid, superseded, and post-Test evidence explicitly.
-- Classification paper metrics use denial-positive average precision; reused Test comparisons are descriptive and partially confounded. Regression V2 passed five of six conditions, with C2 failed.
-- Every result needs relative source lineage, row keys, scientific status, and evaluation scope. Mark missing evidence unresolved instead of guessing.
-- Use lightweight synthetic-only tests and publication, traceability, scope, manifest, notebook-output, and link validators. No ML-framework import is needed for package checks.
-- Work on codex/build-complete-reproducibility-package. No direct main push before validation. Merge only after observed successful remote CI and local safety/source-integrity checks.
-- Before any remote mutation verify the GitHub account is salehmh10. Never mutate ADS-PROJECT. Keep this repository private and releases draft. Do not assign a license without existing permission.
-- One agent performs this task; do not delegate scientific or release work.
+- Package existing artifacts only. The scientific source collection, ADS-PROJECT, manuscript and Related Work change 13 are read-only.
+- Do not execute research code, notebooks, tests, validators, builds, scientific imports or CI. Do not install dependencies or reconstruct evidence.
+- Copy research Python byte-for-byte. Preserve notebook cell order, IDs and all code/Markdown sources. Only unsafe saved outputs or nonessential metadata may be removed from target copies; log their hashes and redactions.
+- Exclude applicant records, membership, individual predictions, models, credentials and personal paths. If unsafe content is embedded in code or Markdown, exclude the file instead of rewriting it.
+- Keep original task structure and scientific settings. Use companion Markdown for explanations; never author a replacement notebook, runner or test.
+- Keep Classification generations and historical Regression separate. Retain denial-positive AP, reused-Test/fallback limits, the exact Regression routing formula and five-of-six result with C2 failed.
+- Use static inspection, copying, parsing, counts and checksums only. Keep private operational notes outside tracked content. No new execution-success claims.
+- Verify GitHub identity salehmh10 before remote mutations. Prevent automatic Actions runs before push/PR/tag. Never bypass branch protection. Keep repository private and releases draft; preserve existing tags/releases.
+- Work on codex/existing-artifacts-publication. Preserve user changes. Do not mutate the historical repository, invent a license, or delegate this task.

@@ -1,0 +1,178 @@
+component,feature,all_sample_mean_abs_shap,top5_primary_error_mean_abs_shap,top5_to_all_ratio,all_n,top5_error_n,explanation_space
+catboost,agency_name,4.941292565614297,26.748529254283863,5.413265638311483,4000,203,raw loan amount (thousand USD)
+catboost,loan_type_name,6.866924115376796,13.454078482211107,1.9592583602437066,4000,203,raw loan amount (thousand USD)
+catboost,property_type_name,2.393298805517347,1.812930243498021,0.7575026734307542,4000,203,raw loan amount (thousand USD)
+catboost,loan_purpose_name,15.60356438887483,23.599138513132765,1.5124197218655175,4000,203,raw loan amount (thousand USD)
+catboost,owner_occupancy_name,11.030986792750543,24.216527507146818,2.1953183302750108,4000,203,raw loan amount (thousand USD)
+catboost,preapproval_name,0.4702964400992634,0.6690540860987909,1.4226220508017806,4000,203,raw loan amount (thousand USD)
+catboost,msamd_name,25.629440465286603,46.3264860782193,1.8075496474831545,4000,203,raw loan amount (thousand USD)
+catboost,state_name,1.4117872176769037,1.85996164349133,1.3174518229113148,4000,203,raw loan amount (thousand USD)
+catboost,state_abbr,1.8422096150756635,3.050733464013028,1.656018641444192,4000,203,raw loan amount (thousand USD)
+catboost,state_code,3.1265334599687615,7.819856696437961,2.501126821945508,4000,203,raw loan amount (thousand USD)
+catboost,county_name,8.699004625956208,18.1118605674452,2.0820612640442544,4000,203,raw loan amount (thousand USD)
+catboost,county_code,1.463535222829776,3.25096239875329,2.2213079316721096,4000,203,raw loan amount (thousand USD)
+catboost,census_tract_number,4.573269469163021,8.917108645639468,1.9498323258155694,4000,203,raw loan amount (thousand USD)
+catboost,lien_status_name,18.699700358869553,20.04355979453394,1.071865292484592,4000,203,raw loan amount (thousand USD)
+catboost,applicant_income_000s,25.678638023640758,82.50721161905301,3.2130680584808915,4000,203,raw loan amount (thousand USD)
+catboost,population,0.2931993761937343,0.703178791300657,2.3982956595242713,4000,203,raw loan amount (thousand USD)
+catboost,hud_median_family_income,3.4144746334004945,8.69107411796337,2.545362039871967,4000,203,raw loan amount (thousand USD)
+catboost,tract_to_msamd_income,6.710242517828787,21.02823474779514,3.133751826692425,4000,203,raw loan amount (thousand USD)
+catboost,number_of_owner_occupied_units,0.5752660029860823,1.138394006952752,1.9789001975496434,4000,203,raw loan amount (thousand USD)
+catboost,number_of_1_to_4_family_units,0.1784340832268029,0.3266734348179745,1.830779349496522,4000,203,raw loan amount (thousand USD)
+catboost,log1p_applicant_income,29.898459374118076,76.85570800023402,2.570557467143775,4000,203,raw loan amount (thousand USD)
+catboost,log1p_population,0.14601239031873786,0.4124008996743425,2.8244240011008084,4000,203,raw loan amount (thousand USD)
+catboost,log1p_hud_median_family_income,2.3764038845821585,7.2223907517334025,3.039210126944945,4000,203,raw loan amount (thousand USD)
+catboost,log1p_owner_occupied_units,0.5683837251275634,1.0522857667206538,1.851365055332095,4000,203,raw loan amount (thousand USD)
+catboost,log1p_1_to_4_family_units,0.09892364617827092,0.11731022093106648,1.1858663268402077,4000,203,raw loan amount (thousand USD)
+catboost,applicant_income_to_area_income,1.9262389748663162,4.417856956038699,2.293514467147206,4000,203,raw loan amount (thousand USD)
+catboost,tract_income_ratio,9.129890223923463,24.21708468239619,2.652505571089899,4000,203,raw loan amount (thousand USD)
+catboost,owner_occupied_unit_ratio,2.4006002237789663,6.9682028304732,2.9026919024043183,4000,203,raw loan amount (thousand USD)
+catboost,family_units_per_1000_people,2.0320761653167376,7.134242472989917,3.5108145032929463,4000,203,raw loan amount (thousand USD)
+catboost,owner_occupied_units_per_1000_people,1.0970421789338238,1.7894559748064376,1.631164242513944,4000,203,raw loan amount (thousand USD)
+catboost,has_co_applicant,2.9105122957123815,4.3306595607797025,1.4879372154377803,4000,203,raw loan amount (thousand USD)
+catboost,loan_program_group,0.9098806971421897,0.6679269992415575,0.7340819530949766,4000,203,raw loan amount (thousand USD)
+catboost,applicant_income_area_group,1.5386998812529165,3.945685293144132,2.5642981722538907,4000,203,raw loan amount (thousand USD)
+catboost,tract_income_level,8.075719512858504,12.082984438720219,1.4962115040624155,4000,203,raw loan amount (thousand USD)
+catboost,us_region,3.97069815596141,5.930934053602784,1.493675374114845,4000,203,raw loan amount (thousand USD)
+lightgbm,applicant_income_000s,63.40119084666032,193.6886604756827,3.054968808774123,4000,203,raw loan amount (thousand USD)
+lightgbm,population,0.7372246239329476,2.5521066367830736,3.461776172325999,4000,203,raw loan amount (thousand USD)
+lightgbm,hud_median_family_income,27.15349070542829,51.03276486077829,1.8794182086716484,4000,203,raw loan amount (thousand USD)
+lightgbm,tract_to_msamd_income,26.653924987938534,72.70225511167646,2.727637867390104,4000,203,raw loan amount (thousand USD)
+lightgbm,number_of_owner_occupied_units,1.3918975895863677,3.8622374187226765,2.7747999907596816,4000,203,raw loan amount (thousand USD)
+lightgbm,number_of_1_to_4_family_units,0.8007443295355142,2.075094646211026,2.5914571851101598,4000,203,raw loan amount (thousand USD)
+lightgbm,log1p_applicant_income,0.0,0.0,,4000,203,raw loan amount (thousand USD)
+lightgbm,log1p_population,0.0,0.0,,4000,203,raw loan amount (thousand USD)
+lightgbm,log1p_hud_median_family_income,0.0,0.0,,4000,203,raw loan amount (thousand USD)
+lightgbm,log1p_owner_occupied_units,0.0,0.0,,4000,203,raw loan amount (thousand USD)
+lightgbm,log1p_1_to_4_family_units,0.0008107965589632826,0.0003366356685461231,0.4151912891398542,4000,203,raw loan amount (thousand USD)
+lightgbm,applicant_income_to_area_income,2.685239530520973,13.969118256836666,5.202187029522266,4000,203,raw loan amount (thousand USD)
+lightgbm,tract_income_ratio,0.0,0.0,,4000,203,raw loan amount (thousand USD)
+lightgbm,owner_occupied_unit_ratio,3.0903615339369743,9.782044472763383,3.165339836566475,4000,203,raw loan amount (thousand USD)
+lightgbm,family_units_per_1000_people,2.280182822946628,6.697725451418524,2.9373633482438075,4000,203,raw loan amount (thousand USD)
+lightgbm,owner_occupied_units_per_1000_people,1.543975112896989,4.025345608543192,2.6071311479822765,4000,203,raw loan amount (thousand USD)
+lightgbm,has_co_applicant,3.1011884590185304,5.17332279637443,1.6681742708444403,4000,203,raw loan amount (thousand USD)
+lightgbm,msamd_name,9.472075454196805,15.792520957645156,1.6672714479536734,4000,203,raw loan amount (thousand USD)
+lightgbm,county_name,2.212916252967978,4.104186214255437,1.8546504906143082,4000,203,raw loan amount (thousand USD)
+lightgbm,county_code,2.3718275002022247,5.354819025474402,2.2576764225129544,4000,203,raw loan amount (thousand USD)
+lightgbm,census_tract_number,2.748169564700049,6.954590107856343,2.530626274734764,4000,203,raw loan amount (thousand USD)
+lightgbm,agency_name,4.765984066691922,20.000479683661478,4.196505780084122,4000,203,raw loan amount (thousand USD)
+lightgbm,loan_type_name,6.938034778381645,5.570551808258574,0.8029005310864054,4000,203,raw loan amount (thousand USD)
+lightgbm,property_type_name,2.330113569170141,1.3196829530270318,0.566359927897004,4000,203,raw loan amount (thousand USD)
+lightgbm,loan_purpose_name,19.714256562987444,27.819323151855347,1.4111271740312425,4000,203,raw loan amount (thousand USD)
+lightgbm,owner_occupancy_name,13.61179458809936,31.92466745279017,2.3453680002416104,4000,203,raw loan amount (thousand USD)
+lightgbm,preapproval_name,0.2746298528922824,0.4595097919977519,1.6731968034734541,4000,203,raw loan amount (thousand USD)
+lightgbm,state_name,5.146011435609975,11.64697551754259,2.26330152260185,4000,203,raw loan amount (thousand USD)
+lightgbm,state_abbr,2.1872936617495924,2.877987768710965,1.3157756633413797,4000,203,raw loan amount (thousand USD)
+lightgbm,state_code,10.759963234501527,20.83364570037388,1.9362190414899714,4000,203,raw loan amount (thousand USD)
+lightgbm,lien_status_name,20.1928016985243,16.393847673596284,0.8118659271929737,4000,203,raw loan amount (thousand USD)
+lightgbm,loan_program_group,0.0,0.0,,4000,203,raw loan amount (thousand USD)
+lightgbm,applicant_income_area_group,0.039239096395030856,0.039145464693036425,0.9976138160509147,4000,203,raw loan amount (thousand USD)
+lightgbm,tract_income_level,0.12569143308728198,0.17412647849996757,1.385348819907651,4000,203,raw loan amount (thousand USD)
+lightgbm,us_region,23.144029622516783,27.243814370204785,1.1771422182980327,4000,203,raw loan amount (thousand USD)
+xgboost,agency_name,0.030750932587613834,0.03469884162254975,1.1283833920707202,4000,203,native log1p target space
+xgboost,loan_type_name,0.03970214016580014,0.02486722085663123,0.6263445938375918,4000,203,native log1p target space
+xgboost,property_type_name,0.020069563865603414,0.009376586827775235,0.46720431448166483,4000,203,native log1p target space
+xgboost,loan_purpose_name,0.07945593300672418,0.07438845149662318,0.9362227423637182,4000,203,native log1p target space
+xgboost,owner_occupancy_name,0.05333526256912449,0.08266900674565339,1.5499878085068255,4000,203,native log1p target space
+xgboost,preapproval_name,0.002225761358072475,0.0017379100807211395,0.7808160000702778,4000,203,native log1p target space
+xgboost,msamd_name,0.037236061862229636,0.038771204419058874,1.0412273070796032,4000,203,native log1p target space
+xgboost,state_name,0.06633252033616945,0.08807227277478301,1.3277389782332667,4000,203,native log1p target space
+xgboost,state_abbr,0.0,0.0,,4000,203,native log1p target space
+xgboost,state_code,0.0,0.0,,4000,203,native log1p target space
+xgboost,county_name,0.013259868401905465,0.015707663033790505,1.1846017288929722,4000,203,native log1p target space
+xgboost,county_code,0.01127104029163712,0.013483287621630136,1.1962771201904459,4000,203,native log1p target space
+xgboost,census_tract_number,0.012455742908126127,0.014957517055044995,1.2008530655595588,4000,203,native log1p target space
+xgboost,lien_status_name,0.2300592519703435,0.1145034635029006,0.4977129262232889,4000,203,native log1p target space
+xgboost,applicant_income_000s,0.2675047300469232,0.5418277005779699,2.0254882987785954,4000,203,native log1p target space
+xgboost,population,0.006902635330608746,0.008708748358500815,1.261655576658254,4000,203,native log1p target space
+xgboost,hud_median_family_income,0.10479666595211427,0.1336461494839062,1.275290089333323,4000,203,native log1p target space
+xgboost,tract_to_msamd_income,0.10175562343347337,0.16225897779446233,1.5945946997272866,4000,203,native log1p target space
+xgboost,number_of_owner_occupied_units,0.007884026332675091,0.009611317526640212,1.2190874460688212,4000,203,native log1p target space
+xgboost,number_of_1_to_4_family_units,0.005944638219612557,0.00598622241160551,1.0069952435214238,4000,203,native log1p target space
+xgboost,log1p_applicant_income,0.0,0.0,,4000,203,native log1p target space
+xgboost,log1p_population,0.0,0.0,,4000,203,native log1p target space
+xgboost,log1p_hud_median_family_income,0.0,0.0,,4000,203,native log1p target space
+xgboost,log1p_owner_occupied_units,0.0,0.0,,4000,203,native log1p target space
+xgboost,log1p_1_to_4_family_units,0.0,0.0,,4000,203,native log1p target space
+xgboost,applicant_income_to_area_income,0.009969741923907122,0.014755761329132807,1.480054493060544,4000,203,native log1p target space
+xgboost,tract_income_ratio,0.0,0.0,,4000,203,native log1p target space
+xgboost,owner_occupied_unit_ratio,0.011008461452171325,0.01898916900657425,1.724961211798475,4000,203,native log1p target space
+xgboost,family_units_per_1000_people,0.01228897801048447,0.0169347190882403,1.3780412882008797,4000,203,native log1p target space
+xgboost,owner_occupied_units_per_1000_people,0.009595909195936428,0.012969008511760334,1.3515143012454005,4000,203,native log1p target space
+xgboost,has_co_applicant,0.012919389297697762,0.014562221479102088,1.127160204213142,4000,203,native log1p target space
+xgboost,loan_program_group,0.0,0.0,,4000,203,native log1p target space
+xgboost,applicant_income_area_group,0.0005722051236372323,0.0003784441741225163,0.6613785135598385,4000,203,native log1p target space
+xgboost,tract_income_level,0.0010785944429734257,0.0010127546247565029,0.9389577624418143,4000,203,native log1p target space
+xgboost,us_region,0.09828084720946575,0.0914255333654207,0.9302477131741209,4000,203,native log1p target space
+gate,agency_name,0.2906279136099278,0.4445665299360527,1.5296759503037165,4000,203,native CatBoost log-odds routing space
+gate,loan_type_name,0.19031053326965544,0.14661604288005198,0.770404245950529,4000,203,native CatBoost log-odds routing space
+gate,property_type_name,0.001725237092837181,0.0013654707967606782,0.7914684900004897,4000,203,native CatBoost log-odds routing space
+gate,loan_purpose_name,0.1344312776688267,0.09519861585810172,0.7081582315435907,4000,203,native CatBoost log-odds routing space
+gate,owner_occupancy_name,0.10339327186482222,0.1252730655919435,1.2116171906787825,4000,203,native CatBoost log-odds routing space
+gate,preapproval_name,0.013265201598292968,0.014225225621967067,1.0723716120377424,4000,203,native CatBoost log-odds routing space
+gate,msamd_name,0.21124868742599248,0.24979663404851965,1.1824766207649542,4000,203,native CatBoost log-odds routing space
+gate,state_name,0.03276023434238472,0.046967696910433954,1.4336801263252206,4000,203,native CatBoost log-odds routing space
+gate,state_abbr,0.0926013538835138,0.09294418492349572,1.0037022249200933,4000,203,native CatBoost log-odds routing space
+gate,state_code,0.106113461045347,0.11214167930711173,1.0568091757857998,4000,203,native CatBoost log-odds routing space
+gate,county_name,0.21674808422516162,0.3185367964752376,1.4696175867664698,4000,203,native CatBoost log-odds routing space
+gate,county_code,0.0606862234684613,0.05901819024084568,0.972513807380311,4000,203,native CatBoost log-odds routing space
+gate,census_tract_number,0.19400074883839633,0.27854411811250585,1.435788881127127,4000,203,native CatBoost log-odds routing space
+gate,lien_status_name,0.07752204860031547,0.04857347361758732,0.6265762385617561,4000,203,native CatBoost log-odds routing space
+gate,applicant_income_000s,0.2913303336133495,0.34538866937332907,1.1855568388279307,4000,203,native CatBoost log-odds routing space
+gate,population,0.007814810052273496,0.006769409012409234,0.8662282214319293,4000,203,native CatBoost log-odds routing space
+gate,hud_median_family_income,0.006032606760978867,0.008355526653121304,1.3850607182234955,4000,203,native CatBoost log-odds routing space
+gate,tract_to_msamd_income,0.013723177186451286,0.020411477176931987,1.4873725595472143,4000,203,native CatBoost log-odds routing space
+gate,number_of_owner_occupied_units,0.009493677169393935,0.00739231271177617,0.7786564236255872,4000,203,native CatBoost log-odds routing space
+gate,number_of_1_to_4_family_units,0.011070812561528193,0.007296311339801301,0.6590583391463483,4000,203,native CatBoost log-odds routing space
+gate,log1p_applicant_income,0.3382233083761027,0.39464296991245307,1.1668118670095082,4000,203,native CatBoost log-odds routing space
+gate,log1p_population,0.011895747392005341,0.009632764165843865,0.8097653597047347,4000,203,native CatBoost log-odds routing space
+gate,log1p_hud_median_family_income,0.005802725640880864,0.008905260497084283,1.534668541684223,4000,203,native CatBoost log-odds routing space
+gate,log1p_owner_occupied_units,0.009242149531312553,0.006618800724601755,0.7161538235425807,4000,203,native CatBoost log-odds routing space
+gate,log1p_1_to_4_family_units,0.005151145108091267,0.006021115459286413,1.1688887291931696,4000,203,native CatBoost log-odds routing space
+gate,applicant_income_to_area_income,0.12096125910309304,0.18935255260338116,1.5653983267650966,4000,203,native CatBoost log-odds routing space
+gate,tract_income_ratio,0.024384375288790356,0.021315856812895193,0.8741604638399009,4000,203,native CatBoost log-odds routing space
+gate,owner_occupied_unit_ratio,0.02173840649688176,0.025403378273731275,1.1685943161185817,4000,203,native CatBoost log-odds routing space
+gate,family_units_per_1000_people,0.041717630881329716,0.04702166008190624,1.127141189193231,4000,203,native CatBoost log-odds routing space
+gate,owner_occupied_units_per_1000_people,0.013545614182000692,0.013077318937667545,0.965428275304385,4000,203,native CatBoost log-odds routing space
+gate,has_co_applicant,0.015881165788536274,0.014147336465336984,0.8908248080596927,4000,203,native CatBoost log-odds routing space
+gate,loan_program_group,0.005435247507266198,0.0033704307205853646,0.6201062078736157,4000,203,native CatBoost log-odds routing space
+gate,applicant_income_area_group,0.1627360749275163,0.13871810889683234,0.8524115440206991,4000,203,native CatBoost log-odds routing space
+gate,tract_income_level,0.02578773853471603,0.05988888363339354,2.3223782710829717,4000,203,native CatBoost log-odds routing space
+gate,us_region,0.014618309498266339,0.012645274165010168,0.8650298563257152,4000,203,native CatBoost log-odds routing space
+gate,global_prediction_feature,1.285038822918479,2.665740694869779,2.074443703432678,4000,203,native CatBoost log-odds routing space
+residual,agency_name,10.781762025288133,9.316477490138386,0.8640960047427323,4000,203,raw residual-correction space (thousand USD)
+residual,loan_type_name,7.055823038389356,3.4227077981781275,0.4850898016511812,4000,203,raw residual-correction space (thousand USD)
+residual,property_type_name,0.002562137695131284,2.1036128270532078e-05,0.008210381631910764,4000,203,raw residual-correction space (thousand USD)
+residual,loan_purpose_name,11.007366993614067,14.132590361354156,1.2839210657329032,4000,203,raw residual-correction space (thousand USD)
+residual,owner_occupancy_name,7.279683104354318,10.621510656672294,1.459062229002671,4000,203,raw residual-correction space (thousand USD)
+residual,preapproval_name,1.597736245081147,1.7128135789886934,1.0720252383719953,4000,203,raw residual-correction space (thousand USD)
+residual,msamd_name,9.716315951991978,9.811618431169753,1.0098084993992231,4000,203,raw residual-correction space (thousand USD)
+residual,state_name,4.403329710108132,6.012423933427738,1.365426695081639,4000,203,raw residual-correction space (thousand USD)
+residual,state_abbr,4.9006934168554075,5.186685044084147,1.058357379844473,4000,203,raw residual-correction space (thousand USD)
+residual,state_code,3.3379134298169992,3.7609361180555543,1.1267326721117952,4000,203,raw residual-correction space (thousand USD)
+residual,county_name,1.5625523224309659,2.279345144559343,1.4587320448976806,4000,203,raw residual-correction space (thousand USD)
+residual,county_code,1.2859905421851527,1.4748034786784205,1.1468229588784045,4000,203,raw residual-correction space (thousand USD)
+residual,census_tract_number,4.615302067436325,9.85546988578937,2.135390000868094,4000,203,raw residual-correction space (thousand USD)
+residual,lien_status_name,1.3463089711974516,0.058177211629786556,0.04321237760010009,4000,203,raw residual-correction space (thousand USD)
+residual,applicant_income_000s,3.7165032357621453,3.822450327528878,1.028507197504163,4000,203,raw residual-correction space (thousand USD)
+residual,population,0.520225821803626,0.7253411123001414,1.394281256138689,4000,203,raw residual-correction space (thousand USD)
+residual,hud_median_family_income,1.6967171549549591,1.3754595372802965,0.81065929772886,4000,203,raw residual-correction space (thousand USD)
+residual,tract_to_msamd_income,1.4811750850813548,1.8069837293455178,1.2199663277797221,4000,203,raw residual-correction space (thousand USD)
+residual,number_of_owner_occupied_units,0.7698827514231111,1.0465528647540419,1.3593665565561928,4000,203,raw residual-correction space (thousand USD)
+residual,number_of_1_to_4_family_units,0.5847595740409963,0.7370092169610154,1.2603628049522881,4000,203,raw residual-correction space (thousand USD)
+residual,log1p_applicant_income,5.0458853328081625,6.370447696114028,1.2625034609275818,4000,203,raw residual-correction space (thousand USD)
+residual,log1p_population,0.6851873644730442,0.8283333889868041,1.2089151550887822,4000,203,raw residual-correction space (thousand USD)
+residual,log1p_hud_median_family_income,1.2653903167504472,1.5515561077603028,1.2261482383907727,4000,203,raw residual-correction space (thousand USD)
+residual,log1p_owner_occupied_units,0.7736558435440511,0.8710105184562774,1.1258371868119716,4000,203,raw residual-correction space (thousand USD)
+residual,log1p_1_to_4_family_units,0.8433944052765544,1.1628953508736481,1.37882744253245,4000,203,raw residual-correction space (thousand USD)
+residual,applicant_income_to_area_income,16.587013187031594,12.768645122325875,0.7697977314148954,4000,203,raw residual-correction space (thousand USD)
+residual,tract_income_ratio,1.6995273959888195,2.3871735339564473,1.4046102108095417,4000,203,raw residual-correction space (thousand USD)
+residual,owner_occupied_unit_ratio,2.0508992391123444,3.267598601013238,1.593251652103346,4000,203,raw residual-correction space (thousand USD)
+residual,family_units_per_1000_people,2.45791434304601,2.374537629449945,0.966078267197571,4000,203,raw residual-correction space (thousand USD)
+residual,owner_occupied_units_per_1000_people,1.3136809965761227,3.0764318721588944,2.341840888447858,4000,203,raw residual-correction space (thousand USD)
+residual,has_co_applicant,1.4906994006207392,2.406463330693624,1.6143183056835961,4000,203,raw residual-correction space (thousand USD)
+residual,loan_program_group,0.8439399258156988,0.35141763559136785,0.4164012447351746,4000,203,raw residual-correction space (thousand USD)
+residual,applicant_income_area_group,4.507170532372767,1.630379574374499,0.36173017254712075,4000,203,raw residual-correction space (thousand USD)
+residual,tract_income_level,1.527054221140169,1.4955882774781033,0.9793943507529341,4000,203,raw residual-correction space (thousand USD)
+residual,us_region,3.565164342800277,3.0726040139976307,0.8618407788697443,4000,203,raw residual-correction space (thousand USD)
+residual,global_prediction_feature,128.32291762558677,48.49612904955229,0.377922587382649,4000,203,raw residual-correction space (thousand USD)

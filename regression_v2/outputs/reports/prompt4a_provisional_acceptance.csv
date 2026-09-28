@@ -1,0 +1,15 @@
+candidate_id,candidate_type,global_base,complete_mae_lower,top_decile_mae_improves_3pct,bottom_90_mae_worsens_at_most_0_25pct,rmse_worsens_at_most_0_25pct,top_decile_signed_error_closer_to_zero,top_decile_underprediction_rate_decreases,conditions_passed,conditions_total,provisional_acceptance_status
+tail_weighted_catboost_w2,tail_weighted,catboost,False,False,False,True,True,True,3,6,PARTIAL
+tail_weighted_catboost_w4,tail_weighted,catboost,False,False,False,True,True,False,2,6,PARTIAL
+hard_global_best_single_t035,hard_routing,global_best_single,False,True,False,False,True,True,3,6,PARTIAL
+hard_global_best_single_t050,hard_routing,global_best_single,False,True,False,False,True,True,3,6,PARTIAL
+hard_global_best_single_t065,hard_routing,global_best_single,False,True,False,False,True,True,3,6,PARTIAL
+soft_global_best_single_a050,soft_mixture,global_best_single,False,True,False,True,True,True,4,6,PARTIAL
+soft_global_best_single_a075,soft_mixture,global_best_single,False,True,False,False,True,True,3,6,PARTIAL
+soft_global_best_single_a100,soft_mixture,global_best_single,False,True,False,False,True,True,3,6,PARTIAL
+hard_global_best_ensemble_t035,hard_routing,global_best_ensemble,False,True,False,False,True,True,3,6,PARTIAL
+hard_global_best_ensemble_t050,hard_routing,global_best_ensemble,False,True,False,False,True,True,3,6,PARTIAL
+hard_global_best_ensemble_t065,hard_routing,global_best_ensemble,False,True,False,False,True,True,3,6,PARTIAL
+soft_global_best_ensemble_a050,soft_mixture,global_best_ensemble,False,True,False,True,True,True,4,6,PARTIAL
+soft_global_best_ensemble_a075,soft_mixture,global_best_ensemble,False,True,False,False,True,True,3,6,PARTIAL
+soft_global_best_ensemble_a100,soft_mixture,global_best_ensemble,False,True,False,False,True,True,3,6,PARTIAL

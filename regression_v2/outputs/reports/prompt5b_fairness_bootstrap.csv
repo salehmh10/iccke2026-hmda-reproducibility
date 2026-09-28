@@ -1,0 +1,197 @@
+row_type,sensitive_field,group_label,n,metric,observed,bootstrap_mean,ci_lower_2_5,ci_upper_97_5,resamples,seed
+GROUP,applicant_ethnicity_name,Hispanic or Latino,7760,primary_mae,46.266520353182926,46.25448269395422,44.89413937179432,47.58458764767985,500,42
+GROUP,applicant_ethnicity_name,Hispanic or Latino,7760,primary_wape_percent,21.135916104697547,21.121559264762297,20.58197903891673,21.58511055251754,500,42
+GROUP,applicant_ethnicity_name,Hispanic or Latino,7760,primary_mean_signed_error,-2.582159353347084,-2.561331078579114,-4.25453165504056,-0.8071319119051991,500,42
+GROUP,applicant_ethnicity_name,Hispanic or Latino,7760,primary_underprediction_rate,0.5077319587628866,0.5078788837564049,0.4959565319432943,0.5185941749959851,500,42
+GROUP,applicant_ethnicity_name,Hispanic or Latino,7760,primary_minus_global_mae,-0.08746179312154902,-0.08684290180353099,-0.17790032322655586,-0.006529172476967277,500,42
+GROUP,applicant_ethnicity_name,Hispanic or Latino,7760,group_mae_minus_overall,-15.994105650163966,-16.007725002076572,-17.473823395716884,-14.580098657689344,500,42
+GROUP,applicant_ethnicity_name,Hispanic or Latino,7760,group_underprediction_minus_overall,0.0004386254295531966,0.0005617370897382496,-0.011192227234834998,0.01050945675683556,500,42
+GROUP,applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",7574,primary_mae,70.34100477164682,70.50322495818101,67.84572919470364,73.13712790128031,500,42
+GROUP,applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",7574,primary_wape_percent,25.553654199617963,25.595843082120897,24.903173620737604,26.261260271906316,500,42
+GROUP,applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",7574,primary_mean_signed_error,-8.867394375434673,-8.863503456934755,-12.188922416369914,-5.841753352189423,500,42
+GROUP,applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",7574,primary_underprediction_rate,0.49735938737787166,0.49735944855049935,0.48614171670623285,0.5086615369265597,500,42
+GROUP,applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",7574,primary_minus_global_mae,-0.7067598582901982,-0.7103582762900585,-1.087991794846213,-0.3159564538212011,500,42
+GROUP,applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",7574,group_mae_minus_overall,8.08037876829993,8.241017262150212,5.706392495545754,10.617325667526327,500,42
+GROUP,applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",7574,group_underprediction_minus_overall,-0.00993394595546171,-0.009957698116167342,-0.021159669236638562,0.000630555502215396,500,42
+GROUP,applicant_ethnicity_name,Not Hispanic or Latino,59613,primary_mae,63.25058649321388,63.23569586458546,62.22807670912549,64.19864316369059,500,42
+GROUP,applicant_ethnicity_name,Not Hispanic or Latino,59613,primary_wape_percent,25.27677133560392,25.27247325262075,24.998500478205603,25.580069265969417,500,42
+GROUP,applicant_ethnicity_name,Not Hispanic or Latino,59613,primary_mean_signed_error,-8.699169076177622,-8.701926781118784,-9.907607321504258,-7.647668984933231,500,42
+GROUP,applicant_ethnicity_name,Not Hispanic or Latino,59613,primary_underprediction_rate,0.5085132437555566,0.5085276248805222,0.5048533289908753,0.5123092427285457,500,42
+GROUP,applicant_ethnicity_name,Not Hispanic or Latino,59613,primary_minus_global_mae,-0.13056200666151999,-0.1301162826217954,-0.21049697365112982,-0.04356201471378259,500,42
+GROUP,applicant_ethnicity_name,Not Hispanic or Latino,59613,group_mae_minus_overall,0.9899604898669878,0.9734881685546724,0.622001894167825,1.3460954877341993,500,42
+GROUP,applicant_ethnicity_name,Not Hispanic or Latino,59613,group_underprediction_minus_overall,0.001219910422223247,0.0012104782138554614,-0.0004920261119556263,0.003063626777499028,500,42
+FIELD_GAP,applicant_ethnicity_name,__FIELD__,75000,worst_minus_best_eligible_group_mae_gap,24.074484418463896,24.248742264226784,21.270243315549457,27.095781877143544,500,42
+GROUP,co_applicant_ethnicity_name,Hispanic or Latino,3239,primary_mae,54.188032185605934,54.17151488340336,51.73794109823195,56.811429617516936,500,42
+GROUP,co_applicant_ethnicity_name,Hispanic or Latino,3239,primary_wape_percent,21.629882943578274,21.66342089288362,20.801211959663334,22.50565780927667,500,42
+GROUP,co_applicant_ethnicity_name,Hispanic or Latino,3239,primary_mean_signed_error,-1.1756444246439979,-1.0783520299639449,-4.157913901166194,1.5133651336647767,500,42
+GROUP,co_applicant_ethnicity_name,Hispanic or Latino,3239,primary_underprediction_rate,0.4862611917258413,0.48634753720088314,0.46990064343578697,0.5019857045293582,500,42
+GROUP,co_applicant_ethnicity_name,Hispanic or Latino,3239,primary_minus_global_mae,-0.13676675220054565,-0.13532873702888917,-0.30176741914653804,0.03164923217301189,500,42
+GROUP,co_applicant_ethnicity_name,Hispanic or Latino,3239,group_mae_minus_overall,-8.072593817740959,-8.095251989819406,-10.573215184011673,-5.4863549373908755,500,42
+GROUP,co_applicant_ethnicity_name,Hispanic or Latino,3239,group_underprediction_minus_overall,-0.02103214160749206,-0.02098160946578353,-0.037810874685522536,-0.004546312847228089,500,42
+GROUP,co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",3893,primary_mae,76.73776652994066,76.85399097250836,73.1177976671301,81.04458476829329,500,42
+GROUP,co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",3893,primary_wape_percent,25.477619898108237,25.495914260371485,24.63995759403638,26.42551839435105,500,42
+GROUP,co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",3893,primary_mean_signed_error,-7.094400363419781,-7.143564345986488,-11.832835706589053,-2.6868866035703807,500,42
+GROUP,co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",3893,primary_underprediction_rate,0.49447726688928845,0.4944946485909357,0.4781752427852481,0.5106232394856398,500,42
+GROUP,co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",3893,primary_minus_global_mae,-0.6823045184114944,-0.6692300048677216,-1.2638357731841778,-0.08094614860219647,500,42
+GROUP,co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",3893,group_mae_minus_overall,14.477140526593764,14.587224099285574,11.004982253880616,18.65219859211444,500,42
+GROUP,co_applicant_ethnicity_name,"Information not provided by applicant in mail, Internet, or telephone application",3893,group_underprediction_minus_overall,-0.012816066444044927,-0.012834498075730935,-0.028527036664981954,0.003624973470735048,500,42
+GROUP,co_applicant_ethnicity_name,No co-applicant,40692,primary_mae,54.1820899589754,54.14660907348838,53.32870710913288,55.00465620256147,500,42
+GROUP,co_applicant_ethnicity_name,No co-applicant,40692,primary_wape_percent,24.36082680711071,24.349597091016907,24.098706470934573,24.61009146278156,500,42
+GROUP,co_applicant_ethnicity_name,No co-applicant,40692,primary_mean_signed_error,-7.093163667328249,-7.073431326909416,-8.026182521435215,-6.021951476187446,500,42
+GROUP,co_applicant_ethnicity_name,No co-applicant,40692,primary_underprediction_rate,0.5098790917133589,0.5099252751597199,0.5048715156997612,0.5151277763447378,500,42
+GROUP,co_applicant_ethnicity_name,No co-applicant,40692,primary_minus_global_mae,-0.12072347357898038,-0.11910390728064535,-0.21555792786257597,-0.0209595235090461,500,42
+GROUP,co_applicant_ethnicity_name,No co-applicant,40692,group_mae_minus_overall,-8.07853604437149,-8.120157799734391,-8.973838227435019,-7.348628528764695,500,42
+GROUP,co_applicant_ethnicity_name,No co-applicant,40692,group_underprediction_minus_overall,0.0025857583800255046,0.002596128493053169,-0.0007327655084285595,0.005392305428557617,500,42
+GROUP,co_applicant_ethnicity_name,Not Hispanic or Latino,27118,primary_mae,73.30909222105751,73.36824666676107,71.64758594560874,75.60182801828296,500,42
+GROUP,co_applicant_ethnicity_name,Not Hispanic or Latino,27118,primary_wape_percent,25.92259407522311,25.93989879913919,25.466417575278555,26.502436717593337,500,42
+GROUP,co_applicant_ethnicity_name,Not Hispanic or Latino,27118,primary_mean_signed_error,-10.603871336751714,-10.636033126589535,-12.71164781287258,-8.679172986517587,500,42
+GROUP,co_applicant_ethnicity_name,Not Hispanic or Latino,27118,primary_underprediction_rate,0.5075964304152224,0.5076067329972267,0.5013679389053779,0.5135313983698763,500,42
+GROUP,co_applicant_ethnicity_name,Not Hispanic or Latino,27118,primary_minus_global_mae,-0.21180292018304378,-0.20891387353760546,-0.35481950414900076,-0.04758311714489299,500,42
+GROUP,co_applicant_ethnicity_name,Not Hispanic or Latino,27118,group_mae_minus_overall,11.048466217710619,11.101479793538314,9.802178110153616,12.546043878885214,500,42
+GROUP,co_applicant_ethnicity_name,Not Hispanic or Latino,27118,group_underprediction_minus_overall,0.0003030970818890255,0.00027758633056006963,-0.004126964914852621,0.005042540761203881,500,42
+FIELD_GAP,co_applicant_ethnicity_name,__FIELD__,75000,worst_minus_best_eligible_group_mae_gap,22.555676570965254,23.274369228361813,19.533910572894086,27.291294380419583,500,42
+GROUP,applicant_race_name_1,American Indian or Alaska Native,507,primary_mae,46.970604228773276,47.09362615016584,43.26564574695292,51.74683539872574,500,42
+GROUP,applicant_race_name_1,American Indian or Alaska Native,507,primary_wape_percent,22.58651903446488,22.641153017898947,20.881097194264736,24.670528890938797,500,42
+GROUP,applicant_race_name_1,American Indian or Alaska Native,507,primary_mean_signed_error,2.7023854177036988,2.541372107715976,-3.5373338385153907,8.63008740070037,500,42
+GROUP,applicant_race_name_1,American Indian or Alaska Native,507,primary_underprediction_rate,0.44970414201183434,0.4509865751262698,0.4058933855222385,0.4970883341063086,500,42
+GROUP,applicant_race_name_1,American Indian or Alaska Native,507,primary_minus_global_mae,-0.2334808597516683,-0.22923298212777554,-0.536026878983473,0.05416534345694261,500,42
+GROUP,applicant_race_name_1,American Indian or Alaska Native,507,group_mae_minus_overall,-15.290021774573617,-15.169046813956228,-19.33120290392644,-10.557031866034013,500,42
+GROUP,applicant_race_name_1,American Indian or Alaska Native,507,group_underprediction_minus_overall,-0.057589191321499034,-0.0562928115403969,-0.10226869256060314,-0.010471357196191872,500,42
+GROUP,applicant_race_name_1,Asian,4792,primary_mae,83.28873143351395,83.14537057047976,79.93545878180402,86.33201998543538,500,42
+GROUP,applicant_race_name_1,Asian,4792,primary_wape_percent,23.246092508579192,23.20728694410539,22.50136574740217,23.88617603950242,500,42
+GROUP,applicant_race_name_1,Asian,4792,primary_mean_signed_error,-14.759529435104644,-14.821742163735536,-18.880122202020974,-10.82405659684924,500,42
+GROUP,applicant_race_name_1,Asian,4792,primary_underprediction_rate,0.5598914858096828,0.5603715192934966,0.5468409399495505,0.573652699139361,500,42
+GROUP,applicant_race_name_1,Asian,4792,primary_minus_global_mae,-0.3507311654109752,-0.3574982490768655,-0.7344325831984634,-0.0020177943273194674,500,42
+GROUP,applicant_race_name_1,Asian,4792,group_mae_minus_overall,21.028105430167052,20.88269760635771,17.575464465228443,24.142645960812416,500,42
+GROUP,applicant_race_name_1,Asian,4792,group_underprediction_minus_overall,0.05259815247634947,0.05309213262682992,0.04004836369551768,0.06617213641701741,500,42
+GROUP,applicant_race_name_1,Black or African American,4800,primary_mae,43.37069017971066,43.35897436396545,41.67776494307476,45.23048789729699,500,42
+GROUP,applicant_race_name_1,Black or African American,4800,primary_wape_percent,21.57376825715038,21.57141269190015,20.904675084993762,22.25179657566823,500,42
+GROUP,applicant_race_name_1,Black or African American,4800,primary_mean_signed_error,-5.014252310118368,-4.975798454763569,-7.2101484251829655,-2.8007740637177365,500,42
+GROUP,applicant_race_name_1,Black or African American,4800,primary_underprediction_rate,0.5152083333333334,0.5148619822777147,0.49895415802600795,0.5294608302966266,500,42
+GROUP,applicant_race_name_1,Black or African American,4800,primary_minus_global_mae,-0.10720538258977705,-0.10592708818438938,-0.25796172078708635,0.03968133946570756,500,42
+GROUP,applicant_race_name_1,Black or African American,4800,group_mae_minus_overall,-18.889935823636236,-18.903698600156613,-20.707330473179873,-17.04146166218293,500,42
+GROUP,applicant_race_name_1,Black or African American,4800,group_underprediction_minus_overall,0.007915000000000005,0.007582595611048033,-0.007189822145906501,0.021320617544933602,500,42
+GROUP,applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",8176,primary_mae,69.79560285137106,69.8040060247085,67.20594776876922,72.54122222266588,500,42
+GROUP,applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",8176,primary_wape_percent,25.41038302952623,25.42271175758251,24.735391883042187,26.071656290936946,500,42
+GROUP,applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",8176,primary_mean_signed_error,-8.562089547418523,-8.56580797597196,-11.510741484900148,-5.758300385894362,500,42
+GROUP,applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",8176,primary_underprediction_rate,0.5024461839530333,0.5021714837076159,0.49097581054198436,0.5141627686225388,500,42
+GROUP,applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",8176,primary_minus_global_mae,-0.5678203339999061,-0.5779505173421998,-0.926478962081617,-0.21015828735127257,500,42
+GROUP,applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",8176,group_mae_minus_overall,7.534976848024165,7.5413330605864415,5.169209463676119,10.02346982835412,500,42
+GROUP,applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",8176,group_underprediction_minus_overall,-0.004847149380300064,-0.005107902959050855,-0.01568921881591091,0.0060122066658126905,500,42
+GROUP,applicant_race_name_1,Native Hawaiian or Other Pacific Islander,338,primary_mae,59.69914668867146,59.543248975034494,51.60750276587925,68.62205645664261,500,42
+GROUP,applicant_race_name_1,Native Hawaiian or Other Pacific Islander,338,primary_wape_percent,21.545364989344886,21.55495949543344,19.1196134070236,24.38797302880305,500,42
+GROUP,applicant_race_name_1,Native Hawaiian or Other Pacific Islander,338,primary_mean_signed_error,-1.7209476218411566,-1.6721332840143628,-13.091046210929012,7.581249162650061,500,42
+GROUP,applicant_race_name_1,Native Hawaiian or Other Pacific Islander,338,primary_underprediction_rate,0.5118343195266272,0.5117140770099488,0.4601851851851852,0.5678220574606117,500,42
+GROUP,applicant_race_name_1,Native Hawaiian or Other Pacific Islander,338,primary_minus_global_mae,-0.3071359407309325,-0.29239222735785825,-0.8648572425641253,0.29387310373578956,500,42
+GROUP,applicant_race_name_1,Native Hawaiian or Other Pacific Islander,338,group_mae_minus_overall,-2.561479314675431,-2.719423989087569,-10.721658843977615,6.537443307446156,500,42
+GROUP,applicant_race_name_1,Native Hawaiian or Other Pacific Islander,338,group_underprediction_minus_overall,0.0045409861932937945,0.004434690343282121,-0.04861301016865513,0.06022710534445474,500,42
+GROUP,applicant_race_name_1,White,56362,primary_mae,61.07613651079876,61.09138690541161,60.13886116341351,62.206313330519485,500,42
+GROUP,applicant_race_name_1,White,56362,primary_wape_percent,25.35068790361744,25.352496918719314,25.077562738973615,25.692093858915793,500,42
+GROUP,applicant_race_name_1,White,56362,primary_mean_signed_error,-7.832544833741283,-7.864030246447317,-8.855478119498592,-6.831179583959908,500,42
+GROUP,applicant_race_name_1,White,56362,primary_underprediction_rate,0.5033355807104077,0.5033371834849062,0.4992767629865909,0.5071723045579702,500,42
+GROUP,applicant_race_name_1,White,56362,primary_minus_global_mae,-0.12000285756022479,-0.12091572779107562,-0.19824248106171982,-0.041074933493057735,500,42
+GROUP,applicant_race_name_1,White,56362,group_mae_minus_overall,-1.1844894925481313,-1.171286058710455,-1.6509095642738387,-0.6891676325034402,500,42
+GROUP,applicant_race_name_1,White,56362,group_underprediction_minus_overall,-0.0039577526229256366,-0.003942203181760489,-0.006022922093059773,-0.0018779069952164276,500,42
+FIELD_GAP,applicant_race_name_1,__FIELD__,75000,worst_minus_best_eligible_group_mae_gap,39.91804125380329,39.839492804514734,36.353558690942904,43.61429494714124,500,42
+GROUP,co_applicant_race_name_1,Asian,2203,primary_mae,97.01691030272315,96.94452583448358,91.3807642782127,103.70786371161681,500,42
+GROUP,co_applicant_race_name_1,Asian,2203,primary_wape_percent,23.94510421486788,23.922408499624062,22.917768049212565,25.016464495076182,500,42
+GROUP,co_applicant_race_name_1,Asian,2203,primary_mean_signed_error,-19.307578677214902,-19.226925015714418,-27.26315404501572,-12.70565134221977,500,42
+GROUP,co_applicant_race_name_1,Asian,2203,primary_underprediction_rate,0.5483431684067182,0.548067926606227,0.5256807796183571,0.5681780417939033,500,42
+GROUP,co_applicant_race_name_1,Asian,2203,primary_minus_global_mae,-1.0348306598502128,-1.0280492478754435,-1.808508604186315,-0.3249083730711797,500,42
+GROUP,co_applicant_race_name_1,Asian,2203,group_mae_minus_overall,34.756284299376254,34.69703617859217,29.268361989247342,41.14858819807638,500,42
+GROUP,co_applicant_race_name_1,Asian,2203,group_underprediction_minus_overall,0.04104983507338478,0.04075613993956036,0.01940589463591793,0.061054417028091265,500,42
+GROUP,co_applicant_race_name_1,Black or African American,1276,primary_mae,53.76194625353753,53.804668900073786,49.46606638195977,59.2992705916138,500,42
+GROUP,co_applicant_race_name_1,Black or African American,1276,primary_wape_percent,21.895464979992177,21.911356252842925,20.521321078418186,23.283979781810814,500,42
+GROUP,co_applicant_race_name_1,Black or African American,1276,primary_mean_signed_error,-9.577537633780292,-9.710458913296875,-16.063175936659235,-4.473393755123613,500,42
+GROUP,co_applicant_race_name_1,Black or African American,1276,primary_underprediction_rate,0.5399686520376176,0.5403172333861631,0.5153688261597903,0.5672428185401284,500,42
+GROUP,co_applicant_race_name_1,Black or African American,1276,primary_minus_global_mae,-0.12576188173635983,-0.1302095247288277,-0.48846057944128535,0.17478818752124814,500,42
+GROUP,co_applicant_race_name_1,Black or African American,1276,group_mae_minus_overall,-8.498679749809362,-8.442820755817639,-12.601512539796131,-3.0053589846971005,500,42
+GROUP,co_applicant_race_name_1,Black or African American,1276,group_underprediction_minus_overall,0.032675318704284195,0.03300544671949648,0.009276492826457003,0.0602494581451756,500,42
+GROUP,co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",4201,primary_mae,76.12373757329512,76.117740450785,72.73814716280002,79.91176021193465,500,42
+GROUP,co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",4201,primary_wape_percent,25.30456647721592,25.315204608655627,24.420492863062112,26.218800165530055,500,42
+GROUP,co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",4201,primary_mean_signed_error,-7.078058746066966,-7.108877986247313,-11.201968246806427,-3.4914497475702193,500,42
+GROUP,co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",4201,primary_underprediction_rate,0.4982147107831469,0.4982964475576209,0.4837593714756451,0.513738754046661,500,42
+GROUP,co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",4201,primary_minus_global_mae,-0.5428542061468586,-0.5163961271206897,-1.040684119627244,-0.008149155378083226,500,42
+GROUP,co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",4201,group_mae_minus_overall,13.863111569948224,13.870250794893582,10.540151093933138,17.58182028586801,500,42
+GROUP,co_applicant_race_name_1,"Information not provided by applicant in mail, Internet, or telephone application",4201,group_underprediction_minus_overall,-0.009078622550186488,-0.009015339109045705,-0.023786872635796815,0.006388331089277158,500,42
+GROUP,co_applicant_race_name_1,No co-applicant,40692,primary_mae,54.1820899589754,54.16132737600189,53.23683645297921,55.15638349285615,500,42
+GROUP,co_applicant_race_name_1,No co-applicant,40692,primary_wape_percent,24.36082680711071,24.343809967022594,24.065949835763703,24.641250060932688,500,42
+GROUP,co_applicant_race_name_1,No co-applicant,40692,primary_mean_signed_error,-7.093163667328249,-7.10783487770898,-8.123204270966005,-6.072806581828178,500,42
+GROUP,co_applicant_race_name_1,No co-applicant,40692,primary_underprediction_rate,0.5098790917133589,0.5098938531793812,0.5051522940654234,0.5148419177746316,500,42
+GROUP,co_applicant_race_name_1,No co-applicant,40692,primary_minus_global_mae,-0.12072347357898038,-0.11754465247052441,-0.20984288597063794,-0.03380219069394355,500,42
+GROUP,co_applicant_race_name_1,No co-applicant,40692,group_mae_minus_overall,-8.07853604437149,-8.08616227988952,-8.930714938069611,-7.338344608681379,500,42
+GROUP,co_applicant_race_name_1,No co-applicant,40692,group_underprediction_minus_overall,0.0025857583800255046,0.002582066512714544,-0.0007482343352643026,0.005879153242990884,500,42
+GROUP,co_applicant_race_name_1,White,26216,primary_mae,70.17203374495193,70.17297860012407,68.51965756072865,72.01784867609015,500,42
+GROUP,co_applicant_race_name_1,White,26216,primary_wape_percent,25.93249649428792,25.925457313162728,25.47397305620297,26.432211906679125,500,42
+GROUP,co_applicant_race_name_1,White,26216,primary_mean_signed_error,-9.057261753569762,-9.086753665068368,-11.160673393151859,-7.077415889654606,500,42
+GROUP,co_applicant_race_name_1,White,26216,primary_underprediction_rate,0.5001144339334758,0.5001027396114079,0.49375610932079916,0.5060410347645928,500,42
+GROUP,co_applicant_race_name_1,White,26216,primary_minus_global_mae,-0.15795524070200798,-0.1560266029756647,-0.28948856835983916,-0.014393382822104712,500,42
+GROUP,co_applicant_race_name_1,White,26216,group_mae_minus_overall,7.911407741605039,7.92548894423266,6.650204869705573,9.326362726521078,500,42
+GROUP,co_applicant_race_name_1,White,26216,group_underprediction_minus_overall,-0.007178899399857608,-0.007209047055258701,-0.012228360472283538,-0.0019968645901960744,500,42
+FIELD_GAP,co_applicant_race_name_1,__FIELD__,75000,worst_minus_best_eligible_group_mae_gap,43.25496404918562,43.94083543598403,37.676184825643496,51.39254257424487,500,42
+GROUP,applicant_sex_name,Female,22123,primary_mae,51.52514458507246,51.50599482937024,50.56297354060042,52.41720660415526,500,42
+GROUP,applicant_sex_name,Female,22123,primary_wape_percent,24.23961182401542,24.235306998002734,23.84749364270278,24.600397904156136,500,42
+GROUP,applicant_sex_name,Female,22123,primary_mean_signed_error,0.732369786889554,0.7367466361390652,-0.43607050080015985,1.9305393023270214,500,42
+GROUP,applicant_sex_name,Female,22123,primary_underprediction_rate,0.4812186412331058,0.4815992231963107,0.47536095226786274,0.48842401180709755,500,42
+GROUP,applicant_sex_name,Female,22123,primary_minus_global_mae,0.04056486962948799,0.03866876640698483,-0.04266939827344272,0.11685073694024571,500,42
+GROUP,applicant_sex_name,Female,22123,group_mae_minus_overall,-10.735481418274432,-10.713370807387998,-11.637931829773112,-9.776220417838832,500,42
+GROUP,applicant_sex_name,Female,22123,group_underprediction_minus_overall,-0.02607469210022756,-0.02581371013702266,-0.031019417667184402,-0.020071959669237707,500,42
+GROUP,applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",4876,primary_mae,72.67629336429076,72.72199273671386,69.33225152774556,76.61936558329671,500,42
+GROUP,applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",4876,primary_wape_percent,26.474713989865066,26.463646934235584,25.653338604839874,27.396527959908894,500,42
+GROUP,applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",4876,primary_mean_signed_error,-9.693686919941149,-9.698993925455474,-13.397036705828812,-6.07780710156088,500,42
+GROUP,applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",4876,primary_underprediction_rate,0.5024610336341263,0.5021576023993901,0.4894289660468399,0.5164368179312573,500,42
+GROUP,applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",4876,primary_minus_global_mae,-0.8368305082998594,-0.8499652595212926,-1.4278203047761706,-0.38310812151822815,500,42
+GROUP,applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",4876,group_mae_minus_overall,10.415667360943864,10.502627099955614,7.139935567957049,14.22751272535063,500,42
+GROUP,applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",4876,group_underprediction_minus_overall,-0.0048322996992070655,-0.0052553309339432195,-0.018478459454520077,0.00762312354237537,500,42
+GROUP,applicant_sex_name,Male,47982,primary_mae,66.07585383783456,66.02257146931355,64.95937790150829,67.08695791516433,500,42
+GROUP,applicant_sex_name,Male,47982,primary_wape_percent,25.02966910791159,25.014998907523673,24.71985468563855,25.30721287669133,500,42
+GROUP,applicant_sex_name,Male,47982,primary_mean_signed_error,-11.977614269512836,-11.932719656347736,-13.220133827713324,-10.718216263908603,500,42
+GROUP,applicant_sex_name,Male,47982,primary_underprediction_rate,0.5198199324746781,0.5198700450036057,0.5155927522715789,0.5239120816492222,500,42
+GROUP,applicant_sex_name,Male,47982,primary_minus_global_mae,-0.2214651024872353,-0.21954278221360535,-0.33060419506801364,-0.10624702778120539,500,42
+GROUP,applicant_sex_name,Male,47982,group_mae_minus_overall,3.815227834487665,3.8032058325553195,3.27269425838067,4.365040134012465,500,42
+GROUP,applicant_sex_name,Male,47982,group_underprediction_minus_overall,0.012526599141344685,0.012457111670272355,0.009867301006448118,0.015016447661426943,500,42
+FIELD_GAP,applicant_sex_name,__FIELD__,75000,worst_minus_best_eligible_group_mae_gap,21.151148779218296,21.215997907343613,17.806157333768972,24.99110112343149,500,42
+GROUP,co_applicant_sex_name,Female,24643,primary_mae,72.66136306086814,72.6500691773256,70.67290461470259,74.93148916400988,500,42
+GROUP,co_applicant_sex_name,Female,24643,primary_wape_percent,25.409535659379014,25.406536812516638,24.939501674635782,25.92948873609613,500,42
+GROUP,co_applicant_sex_name,Female,24643,primary_mean_signed_error,-13.40715426741012,-13.408812757113665,-15.70106443943146,-11.264647176567234,500,42
+GROUP,co_applicant_sex_name,Female,24643,primary_underprediction_rate,0.5177129407945461,0.5178192639128092,0.5119750065267439,0.5236175294303607,500,42
+GROUP,co_applicant_sex_name,Female,24643,primary_minus_global_mae,-0.333016117706384,-0.3343722473030863,-0.5039487181306523,-0.1796185420032782,500,42
+GROUP,co_applicant_sex_name,Female,24643,group_mae_minus_overall,10.400737057521248,10.3912532327401,8.931170050975059,11.874716504810646,500,42
+GROUP,co_applicant_sex_name,Female,24643,group_underprediction_minus_overall,0.010419607461212732,0.010435957246142578,0.005706773845138594,0.015099170895438602,500,42
+GROUP,co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",2554,primary_mae,79.34146543474353,79.20804671429222,74.12695872698644,85.25854506848067,500,42
+GROUP,co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",2554,primary_wape_percent,26.546348823695816,26.523529159347813,25.207727915994333,27.855836919931036,500,42
+GROUP,co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",2554,primary_mean_signed_error,-8.679786507093525,-8.447701609975098,-14.62839897939965,-1.9471659081872246,500,42
+GROUP,co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",2554,primary_underprediction_rate,0.49451840250587314,0.4941653415657035,0.4726318676976809,0.5137259635270756,500,42
+GROUP,co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",2554,primary_minus_global_mae,-0.6348363125879819,-0.5992067227112625,-1.2455280559784507,0.1883818741469643,500,42
+GROUP,co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",2554,group_mae_minus_overall,17.080839431396633,16.949230769706716,11.633928140780613,22.48427611950833,500,42
+GROUP,co_applicant_sex_name,"Information not provided by applicant in mail, Internet, or telephone application",2554,group_underprediction_minus_overall,-0.012774930827460229,-0.013217965100963187,-0.03360693663137341,0.0057553107362281865,500,42
+GROUP,co_applicant_sex_name,Male,7066,primary_mae,66.46217423201641,66.41915801828463,64.19133728212628,68.76231142571542,500,42
+GROUP,co_applicant_sex_name,Male,7066,primary_wape_percent,25.45059302251525,25.426861924265182,24.751039353721676,26.17268733273758,500,42
+GROUP,co_applicant_sex_name,Male,7066,primary_mean_signed_error,4.794403066241335,4.732648176687386,1.8444667740886957,7.784287193997961,500,42
+GROUP,co_applicant_sex_name,Male,7066,primary_underprediction_rate,0.4600905745825078,0.4605113302321708,0.4489166177777577,0.4721514414581608,500,42
+GROUP,co_applicant_sex_name,Male,7066,primary_minus_global_mae,0.13763471011907855,0.13888136807638476,-0.093374975204939,0.3734223083775434,500,42
+GROUP,co_applicant_sex_name,Male,7066,group_mae_minus_overall,4.201548228669516,4.160342073699132,1.947517471965684,6.545053635362477,500,42
+GROUP,co_applicant_sex_name,Male,7066,group_underprediction_minus_overall,-0.04720275875082558,-0.04687197643449588,-0.05781169698359942,-0.03569661718345674,500,42
+GROUP,co_applicant_sex_name,No co-applicant,40692,primary_mae,54.1820899589754,54.20111715198698,53.41096098456944,55.05609332046276,500,42
+GROUP,co_applicant_sex_name,No co-applicant,40692,primary_wape_percent,24.36082680711071,24.365961564607815,24.07927259102963,24.6518515587969,500,42
+GROUP,co_applicant_sex_name,No co-applicant,40692,primary_mean_signed_error,-7.093163667328249,-7.105239908756932,-8.140232570534,-6.20505039266513,500,42
+GROUP,co_applicant_sex_name,No co-applicant,40692,primary_underprediction_rate,0.5098790917133589,0.5099285012478699,0.5053469372995136,0.5145984130499914,500,42
+GROUP,co_applicant_sex_name,No co-applicant,40692,primary_minus_global_mae,-0.12072347357898038,-0.12303735916370363,-0.21421799043448628,-0.03206474981297071,500,42
+GROUP,co_applicant_sex_name,No co-applicant,40692,group_mae_minus_overall,-8.07853604437149,-8.057698792598533,-8.872593431914721,-7.301704742505511,500,42
+GROUP,co_applicant_sex_name,No co-applicant,40692,group_underprediction_minus_overall,0.0025857583800255046,0.002545194581203283,-0.000746377475029336,0.00587325243364384,500,42
+FIELD_GAP,co_applicant_sex_name,__FIELD__,75000,worst_minus_best_eligible_group_mae_gap,25.159375475768122,25.01717731351201,19.549554802928316,31.006823637884075,500,42
+GROUP,majority_minority_tract,Majority minority,16757,primary_mae,55.888120997107066,55.934164044384026,54.19738559806489,58.12925101234576,500,42
+GROUP,majority_minority_tract,Majority minority,16757,primary_wape_percent,22.658340379068942,22.675267375899228,22.14484907071261,23.377083423438666,500,42
+GROUP,majority_minority_tract,Majority minority,16757,primary_mean_signed_error,-4.845040599915169,-4.923300377875059,-7.282598376391366,-3.066454643416924,500,42
+GROUP,majority_minority_tract,Majority minority,16757,primary_underprediction_rate,0.5036104314614788,0.5036300250527019,0.4958320775509074,0.5116029223563762,500,42
+GROUP,majority_minority_tract,Majority minority,16757,primary_minus_global_mae,-0.1846669261748528,-0.18766126750888198,-0.2934264464968813,-0.08351525295910205,500,42
+GROUP,majority_minority_tract,Majority minority,16757,group_mae_minus_overall,-6.372505006239827,-6.344758163146355,-7.869489159495747,-4.570831303443832,500,42
+GROUP,majority_minority_tract,Majority minority,16757,group_underprediction_minus_overall,-0.0036829018718546047,-0.0035873616139647487,-0.010645441301124773,0.0037165122199244636,500,42
+GROUP,majority_minority_tract,Not majority minority,58243,primary_mae,64.09404918535265,64.1036773908561,63.22874612409911,65.10286418478448,500,42
+GROUP,majority_minority_tract,Not majority minority,58243,primary_wape_percent,25.599171909397715,25.601971596785056,25.347827559716524,25.900958862134043,500,42
+GROUP,majority_minority_tract,Not majority minority,58243,primary_mean_signed_error,-9.047546244322472,-9.010767821785215,-10.203477353716304,-7.923840628896534,500,42
+GROUP,majority_minority_tract,Not majority minority,58243,primary_underprediction_rate,0.5083529351166663,0.5082495715165846,0.504185949277169,0.5123656866492002,500,42
+GROUP,majority_minority_tract,Not majority minority,58243,primary_minus_global_mae,-0.18345182059375897,-0.18304783388346663,-0.2856848751118282,-0.0839559296982186,500,42
+GROUP,majority_minority_tract,Not majority minority,58243,group_mae_minus_overall,1.8334231820057525,1.8247551833257316,1.3069053175778131,2.267976818094258,500,42
+GROUP,majority_minority_tract,Not majority minority,58243,group_underprediction_minus_overall,0.0010596017833329752,0.0010321848499179336,-0.0010697842368216468,0.003058502470013884,500,42
+FIELD_GAP,majority_minority_tract,__FIELD__,75000,worst_minus_best_eligible_group_mae_gap,8.20592818824558,8.169513346472085,5.8732410761573215,10.138924838268153,500,42

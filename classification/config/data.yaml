@@ -1,0 +1,20 @@
+seed: 20260809
+raw_path: hmda_classification_stratified_500k.csv
+raw_target: loan_approved
+analytical_target: target_denied
+provisional_target_mapping:
+  0: 1
+  1: 0
+split:
+  strategy: stratified_random
+  train_fraction: 0.60
+  validation_fraction: 0.20
+  test_fraction: 0.20
+protected_columns:
+  - applicant_ethnicity_name
+  - co_applicant_ethnicity_name
+  - applicant_race_name_1
+  - co_applicant_race_name_1
+  - applicant_sex_name
+  - co_applicant_sex_name
+

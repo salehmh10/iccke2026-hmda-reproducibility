@@ -1,0 +1,16 @@
+models:
+  - dummy
+  - logistic_regression
+  - random_forest
+  - extra_trees
+  - xgboost
+  - lightgbm
+  - catboost
+  - bagging
+  - stacking
+  - mlp
+  - tabnet
+  - tabular_transformer
+  - modern_hopfield
+  - hybrid_ml_dl
+

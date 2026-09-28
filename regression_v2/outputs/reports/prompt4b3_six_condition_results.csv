@@ -1,0 +1,7 @@
+candidate_id,scope,complete_mae_lower,top_decile_mae_improves_3pct,bottom_90_mae_worsens_at_most_0_25pct,rmse_worsens_at_most_0_25pct,top_decile_signed_error_closer_to_zero,top_decile_underprediction_rate_decreases,conditions_passed,conditions_total,provisional_acceptance_status
+prompt4b3__beat_linear,selection,False,True,False,True,True,True,4,6,PARTIAL
+prompt4b3__beat_linear,audit_descriptive,False,True,False,True,True,True,4,6,PARTIAL
+prompt4b3__beat_linear,complete_validation_descriptive,False,True,False,True,True,True,4,6,PARTIAL
+prompt4b3__beat_costaware,selection,True,False,True,True,True,True,5,6,PARTIAL
+prompt4b3__beat_costaware,audit_descriptive,True,False,True,True,True,True,5,6,PARTIAL
+prompt4b3__beat_costaware,complete_validation_descriptive,True,False,True,True,True,True,5,6,PARTIAL

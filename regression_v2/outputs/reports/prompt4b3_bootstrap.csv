@@ -1,0 +1,7 @@
+reference_id,metric,rows,difference_champion_minus_reference,percentile_2_5,median,percentile_97_5,resamples,seed,label
+ens_boost_cat060,overall_mae_difference,100000,-0.01750878597383343,-0.022457264967136622,-0.017455131438745004,-0.012068095246255971,500,42,adaptive Development descriptive bootstrap
+ens_boost_cat060,fixed_top_decile_mae_difference,10013,-0.17824808310068485,-0.2260169999647402,-0.17646006340433096,-0.13186409349191117,500,42,adaptive Development descriptive bootstrap
+stage3_residual_t75_a75,overall_mae_difference,100000,0.14215034398963225,0.07108577619100576,0.14232379862428746,0.21758501035265307,500,42,adaptive Development descriptive bootstrap
+stage3_residual_t75_a75,fixed_top_decile_mae_difference,10013,2.243463106965458,1.5732763682459947,2.247174846606788,2.920921239250377,500,42,adaptive Development descriptive bootstrap
+nf_global2_oldraw_direct_cap25,overall_mae_difference,100000,0.2240677623877778,0.15994976099626232,0.22303588530640925,0.2859815556841745,500,42,adaptive Development descriptive bootstrap
+nf_global2_oldraw_direct_cap25,fixed_top_decile_mae_difference,10013,5.764948166134122,5.248385119074726,5.798308512811908,6.309726394125032,500,42,adaptive Development descriptive bootstrap

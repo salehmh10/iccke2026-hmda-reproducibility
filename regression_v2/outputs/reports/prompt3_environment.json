@@ -1,0 +1,40 @@
+{
+  "status": "PASS",
+  "created_at_utc": "2026-08-06T03:13:49.226450+00:00",
+  "python": "3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)]",
+  "python_executable": "<USER_LOCAL_REGRESSION_ENV>/Scripts/python.exe",
+  "platform": "Windows-11-10.0.22621-SP0",
+  "cpu_count_logical": 16,
+  "memory": {
+    "total_bytes": 16782725120,
+    "available_bytes": 8784388096
+  },
+  "packages": {
+    "numpy": "2.5.1",
+    "pandas": "3.0.3",
+    "scikit-learn": "1.9.0",
+    "torch": "2.13.0",
+    "pytabkit": "1.7.3",
+    "rtdl-revisiting-models": "0.0.2",
+    "joblib": "1.5.3",
+    "pyarrow": "25.0.0"
+  },
+  "torch": {
+    "installed": true,
+    "version": "2.13.0+cpu",
+    "cuda_build": null,
+    "cuda_available": false,
+    "cuda_device_count": 0
+  },
+  "realmlp_device": "cpu float32",
+  "ft_device_before_smoke": "cpu",
+  "num_workers": 0,
+  "cache_paths": {
+    "MPLCONFIGDIR": "<USER_LOCAL_CACHE>/MPLCONFIGDIR",
+    "TORCH_HOME": "<USER_LOCAL_CACHE>/TORCH_HOME",
+    "XDG_CACHE_HOME": "<USER_LOCAL_CACHE>/XDG_CACHE_HOME",
+    "HF_HOME": "<USER_LOCAL_CACHE>/HF_HOME",
+    "TMP": "<USER_LOCAL_CACHE>/TMP",
+    "TEMP": "<USER_LOCAL_CACHE>/TEMP"
+  }
+}

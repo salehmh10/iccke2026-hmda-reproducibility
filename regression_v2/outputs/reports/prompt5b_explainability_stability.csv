@@ -1,0 +1,6 @@
+component,half_0_n,half_1_n,top10_overlap_count,top10_overlap_fraction,spearman_rank_correlation,explanation_space
+catboost,1968,2032,10,1.0,0.9983193277310926,raw loan amount (thousand USD)
+lightgbm,1968,2032,10,1.0,0.9985925404644617,raw loan amount (thousand USD)
+xgboost,1968,2032,10,1.0,1.0,native log1p target space
+gate,1968,2032,10,1.0,0.9987129987129987,native CatBoost log-odds routing space
+residual,1968,2032,10,1.0,0.9981981981981983,raw residual-correction space (thousand USD)

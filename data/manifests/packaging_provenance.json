@@ -1,748 +1,4 @@
 {
-  "src/classification/reference/src/__init__.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/__init__.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/data/__init__.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/__init__.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/data/config.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/config.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/data/loader.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/loader.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/data/schema.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/schema.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/data/splitting.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/splitting.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/data/variants.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/variants.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/evaluation/__init__.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/evaluation/__init__.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/evaluation/metrics.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/evaluation/metrics.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/features/__init__.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/__init__.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/features/advanced.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/advanced.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/features/financial.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/financial.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/features/preprocessing.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/preprocessing.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/models/__init__.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/__init__.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/models/artifact.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/artifact.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/models/classical.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/classical.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/models/neural.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/neural.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/training/__init__.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/__init__.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/training/context.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/context.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/training/context_v2.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/context_v2.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/training/tracking.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/tracking.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/src/utils/__init__.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/utils/__init__.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/analyze_feature_v2.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/analyze_feature_v2.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/build_comparison.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_comparison.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/build_datasets.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_datasets.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/build_feature_v2_report.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_feature_v2_report.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/build_features.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_features.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/build_persian_report.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_persian_report.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/check_reproducibility.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/check_reproducibility.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/confirm_feature_v2.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/confirm_feature_v2.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/evaluate_all.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/evaluate_all.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/evaluate_feature_v2.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/evaluate_feature_v2.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/finalize_feature_v2_diagnostics.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/finalize_feature_v2_diagnostics.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/freeze_feature_v2_generation.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/freeze_feature_v2_generation.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/freeze_final_generation.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/freeze_final_generation.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/inspect_data.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/inspect_data.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/run_eda.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/run_eda.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/select_feature_v2_finalists.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/select_feature_v2_finalists.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/snapshot_baseline_v1.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/snapshot_baseline_v1.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/train_all.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_all.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/train_dl.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_dl.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/train_feature_v2_dl.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_feature_v2_dl.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/train_feature_v2_hybrid.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_feature_v2_hybrid.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/train_feature_v2_ml.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_feature_v2_ml.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/train_hybrid.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_hybrid.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/classification/reference/scripts/train_ml.py": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_ml.py",
-    "experiment_generation": "classification_v1_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/data_cleaning.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/data_cleaning.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/deep_bundles.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/deep_bundles.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/deep_metrics.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/deep_metrics.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/deep_preprocessing.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/deep_preprocessing.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/ensemble_utils.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/ensemble_utils.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/feature_engineering.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/feature_engineering.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/final_dataset_builder.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/final_dataset_builder.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/final_validation.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/final_validation.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/metrics.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/metrics.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/model_bundles.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/model_bundles.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/preprocessing.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/preprocessing.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt2_modeling.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt2_modeling.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt3_deep_models.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt3_deep_models.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4_metrics.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4_metrics.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4a_experiments.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4a_experiments.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b2_benefit.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_benefit.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b2_experiments.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_experiments.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b2_metrics.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_metrics.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b2_quantile.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_quantile.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b3_beat.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b3_beat.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b3_experiments.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b3_experiments.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b3_verify.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b3_verify.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b4_experiments.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_experiments.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b4_imr_torch_reference.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_imr_torch_reference.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b4_methods.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_methods.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b4_verify.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_verify.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b_calibration.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_calibration.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b_crossfit.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_crossfit.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b_ensemble.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_ensemble.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b_experiments.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_experiments.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4b_residual.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_residual.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4c_bundles.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4c_bundles.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4c_final.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4c_final.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt4c_verify.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4c_verify.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt5a_evaluation.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt5a_evaluation.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt5a_verify.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt5a_verify.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt5b_analysis.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt5b_analysis.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt5b_verify.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt5b_verify.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt5c_reporting.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt5c_reporting.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/prompt5c_verify.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt5c_verify.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/source_reader.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/source_reader.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/tail_models.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/tail_models.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "src/regression/reference/validation.py": {
-    "source_evidence": "regresionpart2/regression_v2/src/validation.py",
-    "experiment_generation": "regression_v2",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static source copy; personal absolute paths replaced by SOURCE_ROOT; never executed; package text normalized to LF"
-  },
-  "archive/classification_reference/classification_fixed.py": {
-    "source_evidence": "HMDA_pipeline_review/project/classification_fixed.py",
-    "experiment_generation": "classification_reference",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "development_only",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static development/reference source; paths sanitized; not imported; package text normalized to LF"
-  },
-  "archive/classification_reference/hmda_binary_pipeline_v2.py": {
-    "source_evidence": "HMDA_pipeline_review/project/hmda_binary_pipeline_v2.py",
-    "experiment_generation": "classification_reference",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "development_only",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static development/reference source; paths sanitized; not imported; package text normalized to LF"
-  },
-  "archive/classification_reference/test_hmda_binary_pipeline_v2.py": {
-    "source_evidence": "HMDA_pipeline_review/project/test_hmda_binary_pipeline_v2.py",
-    "experiment_generation": "classification_reference",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "development_only",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "Static development/reference source; paths sanitized; not imported; package text normalized to LF"
-  },
-  "notebooks/classification/historical_data_cleaning.ipynb": {
-    "source_evidence": "main/DATA_CLEANING_FOR_14M.ipynb",
-    "experiment_generation": "historical_classification",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "historical",
-    "copied_or_transformed": "transformed",
-    "transformation_description": "JSON-only sanitization: every output, execution count, and original metadata removed; personal paths replaced; package text normalized to LF"
-  },
   "results/classification/validation_results_84.csv": {
     "source_evidence": "HMDA_pipeline_review/project/new new project/reports/EXPERIMENT_RESULTS.csv; HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/EXPERIMENT_RESULTS.csv",
     "experiment_generation": "classification_v1_v2",
@@ -1087,38 +343,6 @@
     "copied_or_transformed": "transformed",
     "transformation_description": "Source text/aggregate/PDF hashes only; no applicant hashes; package text normalized to LF"
   },
-  "docs/MANUSCRIPT_IDENTITY.md": {
-    "source_evidence": "ICCKE2026_Boosting_vs_Deep_Tabular_HMDA.pdf; paper_revision/main_FINAL_6PAGES_TARGETED_EDITS.pdf; paper_revision/main_FINAL_6PAGES_TARGETED_EDITS.tex",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/DATA_PROVENANCE.md": {
-    "source_evidence": "main/DATA_CLEANING_FOR_14M.ipynb; HMDA_pipeline_review/project/new new project/reports/DATASET_REPORT.md; regresionpart2/regression_v2/config.json; regresionpart2/regression_v2/outputs/reports/prompt1a_source_report.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/ACTION_TAKEN_MAPPING.md": {
-    "source_evidence": "main/DATA_CLEANING_FOR_14M.ipynb; regresionpart2/regression_v2/src/data_cleaning.py; HMDA_pipeline_review/project/new new project/src/data/schema.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/DATA_FILTERS.md": {
-    "source_evidence": "main/DATA_CLEANING_FOR_14M.ipynb; regresionpart2/regression_v2/src/data_cleaning.py; regresionpart2/regression_v2/outputs/reports/prompt1a_cleaning_report.csv; regresionpart2/regression_v2/outputs/reports/prompt1b_deduplication_report.json; regresionpart2/regression_v2/outputs/reports/prompt1b_conflict_report.json; regresionpart2/regression_v2/outputs/reports/prompt1b_legacy_exclusion_report.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
   "results/classification/split_summary.csv": {
     "source_evidence": "repository packaging specification",
     "experiment_generation": "classification_v1_v2",
@@ -1126,22 +350,6 @@
     "scientific_status": "supporting_analysis",
     "copied_or_transformed": "transformed",
     "transformation_description": "Authored documentation or validation code; package text normalized to LF"
-  },
-  "docs/SAMPLING_DESIGN.md": {
-    "source_evidence": "main/DATA_CLEANING_FOR_14M.ipynb; HMDA_pipeline_review/project/new new project/data/manifests/split_manifest.json; regresionpart2/regression_v2/src/final_dataset_builder.py; regresionpart2/regression_v2/config.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/POPULATION_AND_TARGETS.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/reports/DATASET_REPORT.md; regresionpart2/regression_v2/src/data_cleaning.py; regresionpart2/regression_v2/src/feature_engineering.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
   },
   "data/README.md": {
     "source_evidence": "repository packaging specification",
@@ -1151,200 +359,8 @@
     "copied_or_transformed": "created",
     "transformation_description": "Authored documentation or validation code"
   },
-  "docs/CLASSIFICATION_FEATURE_V1.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/financial.py; HMDA_pipeline_review/project/new new project/src/features/preprocessing.py; HMDA_pipeline_review/project/new new project/notebook_outputs/feature_v2_standalone/mutual_information_smoke.csv; HMDA_pipeline_review/project/new new project/reports/FEATURE_REPORT.md",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/CLASSIFICATION_FEATURE_V2.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/advanced.py; HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/FEATURE_VALIDATION.csv; HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/CONFIRMED_FEATURE_CONFIG.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/INTERACTION_SCREENING.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/advanced.py; HMDA_pipeline_review/project/new new project/scripts/analyze_feature_v2.py; HMDA_pipeline_review/project/new new project/scripts/confirm_feature_v2.py; HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/CONFIRMED_FEATURE_CONFIG.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/CLASSIFICATION_MODELS.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/classical.py; HMDA_pipeline_review/project/new new project/src/models/neural.py; HMDA_pipeline_review/project/new new project/scripts/train_dl.py; HMDA_pipeline_review/project/new new project/reports/EXPERIMENT_RESULTS.csv; HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/EXPERIMENT_RESULTS.csv; HMDA_pipeline_review/project/new new project/reports/ENVIRONMENT.md",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/CLASSIFICATION_PREPROCESSING.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/context.py; HMDA_pipeline_review/project/new new project/src/training/context_v2.py; HMDA_pipeline_review/project/new new project/src/data/variants.py; HMDA_pipeline_review/project/new new project/src/features/preprocessing.py; HMDA_pipeline_review/project/new new project/src/models/neural.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/CLASSIFICATION_METRICS.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/src/evaluation/metrics.py; HMDA_pipeline_review/project/new new project/src/models/classical.py; HMDA_pipeline_review/project/classification_fixed.py; HMDA_pipeline_review/project/hmda_binary_pipeline_v2.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/CLASSIFICATION_CALIBRATION_AND_HYBRIDS.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_hybrid.py; HMDA_pipeline_review/project/new new project/scripts/train_feature_v2_hybrid.py; HMDA_pipeline_review/project/new new project/scripts/evaluate_all.py; HMDA_pipeline_review/project/new new project/scripts/evaluate_feature_v2.py; HMDA_pipeline_review/project/new new project/src/evaluation/metrics.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/REGRESSION_V2_FEATURES.md": {
-    "source_evidence": "regresionpart2/regression_v2/outputs/reports/feature_roles.json; regresionpart2/regression_v2/src/feature_engineering.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/REGRESSION_V2_MODELS.md": {
-    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt2_frozen_design.json; regresionpart2/regression_v2/outputs/reports/prompt3_frozen_design.json; regresionpart2/regression_v2/outputs/reports/prompt4c_refit_plan.json; regresionpart2/regression_v2/src/preprocessing.py; regresionpart2/regression_v2/src/deep_preprocessing.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/REGRESSION_V2_ROUTING.md": {
-    "source_evidence": "regresionpart2/regression_v2/src/prompt4c_bundles.py; regresionpart2/regression_v2/src/prompt4b_residual.py; regresionpart2/regression_v2/outputs/reports/prompt4c_refit_plan.json; regresionpart2/regression_v2/outputs/reports/prompt4c_stage3_recipe_reproduction.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/REGRESSION_V2_EVALUATION.md": {
-    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_iid_overall_metrics.csv; regresionpart2/regression_v2/outputs/reports/prompt5a_iid_bootstrap.csv; regresionpart2/regression_v2/outputs/reports/prompt5a_iid_six_condition_check.json; regresionpart2/regression_v2/src/prompt5a_evaluation.py",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/REGRESSION_V2_LIMITATIONS.md": {
-    "source_evidence": "regresionpart2/regression_v2/outputs/final/FINAL_TECHNICAL_REPORT.md; regresionpart2/regression_v2/outputs/final/MODEL_CARD_FINAL.md; regresionpart2/regression_v2/outputs/reports/prompt5a_iid_six_condition_check.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/EXPLAINABILITY_SCOPE.md": {
-    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_explainability_sample_manifest.json; regresionpart2/regression_v2/outputs/reports/prompt5b_global_component_summary.csv; regresionpart2/regression_v2/outputs/reports/prompt5b_explainability_stability.csv; regresionpart2/regression_v2/outputs/final/FINAL_TECHNICAL_REPORT.md",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/FEATURE_INTERPRETATION_LIMITATIONS.md": {
-    "source_evidence": "regresionpart2/regression_v2/outputs/final/MODEL_CARD_FINAL.md; regresionpart2/regression_v2/outputs/reports/prompt5b_sensitive_contract.json; HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/FAIRNESS_AUDIT.md",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/HISTORICAL_REGRESSION.md": {
-    "source_evidence": "regresionpart2/artifacts/results/stage9/reporting/stage9_final_test_comparison.csv; regresionpart2/artifacts/results/stage9/reporting/FINAL_TECHNICAL_REPORT.md; regresionpart2/artifacts/results/stage9/reporting/MODEL_CARD.md",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/PIPELINE_GENERATIONS.md": {
-    "source_evidence": "binary classification part.ipynb; HMDA_pipeline_review/project/binary classification par1t.ipynb; HMDA_pipeline_review/project/binary classification corrected v2.ipynb; HMDA_pipeline_review/project/classification_fixed.py; HMDA_pipeline_review/project/hmda_binary_pipeline_v2.py; HMDA_pipeline_review/project/HMDA_BINARY_CLASSIFICATION_AUDIT.md; HMDA_pipeline_review/project/new new project/reports/V1_V2_RETENTION_CLEANUP.md",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/INVALID_AND_SUPERSEDED.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/reports/INVALID_EXPERIMENTS.json; HMDA_pipeline_review/project/new new project/reports/EXPERIMENT_RESULTS.csv; HMDA_pipeline_review/project/new new project/reports/V1_V2_RETENTION_CLEANUP.md; regresionpart2/regression_v2/outputs/reports/prompt3_attempt_ledger.json; regresionpart2/regression_v2/outputs/reports/prompt4b4_fit_ledger.json",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/EVIDENCE_CLASSIFICATION.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/artifacts/generations/baseline_v1/FINAL_GENERATION.lock.json; HMDA_pipeline_review/project/new new project/artifacts/generations/feature_v2/FINAL_GENERATION.lock.json; HMDA_pipeline_review/project/new new project/reports/EXPERIMENT_RESULTS.csv; HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/EXPERIMENT_RESULTS.csv",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/EVIDENCE_REGRESSION.md": {
-    "source_evidence": "regresionpart2/regression_v2/outputs/reports/FINAL_PRE_IID_FREEZE.json; regresionpart2/regression_v2/outputs/reports/FINAL_IID_EVALUATION.json; regresionpart2/regression_v2/outputs/reports/FINAL_PROJECT_COMPLETE.json; regresionpart2/regression_v2/outputs/reports/prompt5a_iid_overall_metrics.csv",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
   "data/manifests/experiment_lineage.csv": {
     "source_evidence": "repository packaging specification",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/EXPERIMENT_LINEAGE.md": {
-    "source_evidence": "user specification and repository evidence",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/RESULT_TRACEABILITY.md": {
-    "source_evidence": "user specification and repository evidence",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/UNRESOLVED_EVIDENCE_GAPS.md": {
-    "source_evidence": "user specification and repository evidence",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/LICENSE_DECISION_REQUIRED.md": {
-    "source_evidence": "user specification and repository evidence",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "docs/LEGACY_AND_EXCLUDED.md": {
-    "source_evidence": "user specification and repository evidence",
     "experiment_generation": "package",
     "evaluation_scope": "not_applicable",
     "scientific_status": "supporting_analysis",
@@ -1360,14 +376,6 @@
     "transformation_description": "Authored documentation or validation code"
   },
   "notebooks/README.md": {
-    "source_evidence": "repository packaging specification",
-    "experiment_generation": "package",
-    "evaluation_scope": "not_applicable",
-    "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
-  },
-  "archive/README.md": {
     "source_evidence": "repository packaging specification",
     "experiment_generation": "package",
     "evaluation_scope": "not_applicable",
@@ -1447,12 +455,2548 @@
     "copied_or_transformed": "created",
     "transformation_description": "Authored documentation or validation code"
   },
-  "docs/ENVIRONMENT.md": {
-    "source_evidence": "HMDA_pipeline_review/project/new new project/reports/ENVIRONMENT.md; regresionpart2/regression_v2/outputs/reports/prompt4c_stage3_recipe_reproduction.json",
-    "experiment_generation": "package",
+  "classification/src/__init__.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/__init__.py",
+    "experiment_generation": "classification_v1_v2",
     "evaluation_scope": "not_applicable",
     "scientific_status": "supporting_analysis",
-    "copied_or_transformed": "created",
-    "transformation_description": "Authored documentation or validation code"
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/data/config.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/config.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/data/loader.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/loader.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/data/schema.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/schema.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/data/splitting.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/splitting.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/data/variants.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/variants.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/data/__init__.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/data/__init__.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/evaluation/metrics.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/evaluation/metrics.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/evaluation/__init__.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/evaluation/__init__.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/features/advanced.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/advanced.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/features/financial.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/financial.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/features/preprocessing.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/preprocessing.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/features/__init__.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/features/__init__.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/models/artifact.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/artifact.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/models/classical.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/classical.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/models/neural.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/neural.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/models/__init__.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/models/__init__.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/training/context.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/context.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/training/context_v2.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/context_v2.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/training/tracking.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/tracking.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/training/__init__.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/training/__init__.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/src/utils/__init__.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/src/utils/__init__.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/analyze_feature_v2.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/analyze_feature_v2.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/build_comparison.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_comparison.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/build_datasets.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_datasets.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/build_features.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_features.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/build_feature_v2_report.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_feature_v2_report.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/build_persian_report.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/build_persian_report.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/check_reproducibility.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/check_reproducibility.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/confirm_feature_v2.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/confirm_feature_v2.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/evaluate_all.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/evaluate_all.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/evaluate_feature_v2.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/evaluate_feature_v2.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/finalize_feature_v2_diagnostics.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/finalize_feature_v2_diagnostics.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/freeze_feature_v2_generation.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/freeze_feature_v2_generation.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/freeze_final_generation.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/freeze_final_generation.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/inspect_data.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/inspect_data.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/run_eda.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/run_eda.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/select_feature_v2_finalists.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/select_feature_v2_finalists.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/snapshot_baseline_v1.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/snapshot_baseline_v1.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/train_all.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_all.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/train_dl.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_dl.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/train_feature_v2_dl.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_feature_v2_dl.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/train_feature_v2_hybrid.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_feature_v2_hybrid.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/train_feature_v2_ml.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_feature_v2_ml.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/train_hybrid.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_hybrid.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/scripts/train_ml.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/scripts/train_ml.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_advanced_features.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_advanced_features.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_artifact.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_artifact.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_classical_models.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_classical_models.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_data_pipeline.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_data_pipeline.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_features.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_features.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_feature_v2_generation.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_feature_v2_generation.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_final_artifact.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_final_artifact.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_final_generation_lock.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_final_generation_lock.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_metrics.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_metrics.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_neural_models.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_neural_models.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_retained_v1_v2_cleanup.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_retained_v1_v2_cleanup.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_standalone_v2_notebook.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_standalone_v2_notebook.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/tests/test_tracking.py": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/tests/test_tracking.py",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/config/data.yaml": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/config/data.yaml",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/config/experiments.yaml": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/config/experiments.yaml",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/config/models.yaml": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/config/models.yaml",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/requirements.txt": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/requirements.txt",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/pytest.ini": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/pytest.ini",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/reports/ENVIRONMENT.md": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/reports/ENVIRONMENT.md",
+    "experiment_generation": "classification_v1_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/data_cleaning.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/data_cleaning.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/deep_bundles.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/deep_bundles.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/deep_metrics.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/deep_metrics.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/deep_preprocessing.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/deep_preprocessing.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/ensemble_utils.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/ensemble_utils.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/feature_engineering.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/feature_engineering.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/final_dataset_builder.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/final_dataset_builder.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/final_validation.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/final_validation.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/metrics.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/metrics.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/model_bundles.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/model_bundles.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/preprocessing.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/preprocessing.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt2_modeling.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt2_modeling.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt3_deep_models.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt3_deep_models.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4a_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4a_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b2_benefit.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_benefit.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b2_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b2_metrics.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_metrics.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b2_quantile.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b2_quantile.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b3_beat.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b3_beat.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b3_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b3_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b3_verify.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b3_verify.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b4_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b4_imr_torch_reference.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_imr_torch_reference.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b4_methods.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_methods.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b4_verify.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b4_verify.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b_calibration.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_calibration.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b_crossfit.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_crossfit.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b_ensemble.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_ensemble.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4b_residual.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4b_residual.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4c_bundles.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4c_bundles.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4c_final.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4c_final.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4c_verify.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4c_verify.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt4_metrics.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt4_metrics.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt5a_evaluation.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt5a_evaluation.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt5a_verify.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt5a_verify.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt5b_analysis.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt5b_analysis.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt5b_verify.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt5b_verify.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt5c_reporting.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt5c_reporting.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/prompt5c_verify.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/prompt5c_verify.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/source_reader.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/source_reader.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/tail_models.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/tail_models.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/src/validation.py": {
+    "source_evidence": "regresionpart2/regression_v2/src/validation.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_final_dataset_build.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_final_dataset_build.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt2_modeling.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt2_modeling.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt3_deep_models.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt3_deep_models.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt4a_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt4a_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt4b2_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt4b2_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt4b3_beat.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt4b3_beat.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt4b4_methods.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt4b4_methods.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt4b4_project_gate.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt4b4_project_gate.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt4b_experiments.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt4b_experiments.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt4c_final.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt4c_final.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt5a_evaluation.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt5a_evaluation.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_prompt5b_analysis.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_prompt5b_analysis.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/tests/test_raw_cleaning.py": {
+    "source_evidence": "regresionpart2/regression_v2/tests/test_raw_cleaning.py",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/config.json": {
+    "source_evidence": "regresionpart2/regression_v2/config.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "historical/regression/prompt2_pipeline_utils.py": {
+    "source_evidence": "regresionpart2/prompt2_pipeline_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage3_fold_worker.py": {
+    "source_evidence": "regresionpart2/stage3_fold_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage3_recovery_utils.py": {
+    "source_evidence": "regresionpart2/stage3_recovery_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage3_tree_utils.py": {
+    "source_evidence": "regresionpart2/stage3_tree_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4_catboost_utils.py": {
+    "source_evidence": "regresionpart2/stage4_catboost_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4_catboost_worker.py": {
+    "source_evidence": "regresionpart2/stage4_catboost_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4_lightgbm_utils.py": {
+    "source_evidence": "regresionpart2/stage4_lightgbm_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4_lightgbm_worker.py": {
+    "source_evidence": "regresionpart2/stage4_lightgbm_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4_xgboost_utils.py": {
+    "source_evidence": "regresionpart2/stage4_xgboost_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4_xgboost_worker.py": {
+    "source_evidence": "regresionpart2/stage4_xgboost_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4b_feature_builder.py": {
+    "source_evidence": "regresionpart2/stage4b_feature_builder.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4de_catboost_utils.py": {
+    "source_evidence": "regresionpart2/stage4de_catboost_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4de_catboost_worker.py": {
+    "source_evidence": "regresionpart2/stage4de_catboost_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage4l_prediction_worker.py": {
+    "source_evidence": "regresionpart2/stage4l_prediction_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5_deep_models.py": {
+    "source_evidence": "regresionpart2/stage5_deep_models.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5_deep_worker.py": {
+    "source_evidence": "regresionpart2/stage5_deep_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5_safe_row_loader.py": {
+    "source_evidence": "regresionpart2/stage5_safe_row_loader.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5a2_continuation_worker.py": {
+    "source_evidence": "regresionpart2/stage5a2_continuation_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5a2_deep_utils.py": {
+    "source_evidence": "regresionpart2/stage5a2_deep_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5a2_fulltrain_worker.py": {
+    "source_evidence": "regresionpart2/stage5a2_fulltrain_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5a2_worker.py": {
+    "source_evidence": "regresionpart2/stage5a2_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage5c_predict_worker.py": {
+    "source_evidence": "regresionpart2/stage5c_predict_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage6_error_analysis_utils.py": {
+    "source_evidence": "regresionpart2/stage6_error_analysis_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage7_fairness_utils.py": {
+    "source_evidence": "regresionpart2/stage7_fairness_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage8_delivery_utils.py": {
+    "source_evidence": "regresionpart2/stage8_delivery_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage8_explainability_utils.py": {
+    "source_evidence": "regresionpart2/stage8_explainability_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage8_explanation_worker.py": {
+    "source_evidence": "regresionpart2/stage8_explanation_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage8_recovery_worker.py": {
+    "source_evidence": "regresionpart2/stage8_recovery_worker.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage9_reporting_utils.py": {
+    "source_evidence": "regresionpart2/stage9_reporting_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/stage9_visual_audit_utils.py": {
+    "source_evidence": "regresionpart2/stage9_visual_audit_utils.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "historical/regression/verify_prompt2_models.py": {
+    "source_evidence": "regresionpart2/verify_prompt2_models.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact historical helper copy; not executed"
+  },
+  "regression_v2/notebooks/01A_CLEAN_RAW_DATA.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/01A_CLEAN_RAW_DATA.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/01B_BUILD_FINAL_DATASETS.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/01B_BUILD_FINAL_DATASETS.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/02_BASELINES_AND_BOOSTING.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/02_BASELINES_AND_BOOSTING.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/03_DEEP_TABULAR_MODELS.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/03_DEEP_TABULAR_MODELS.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/04A_INITIAL_ENSEMBLE_AND_TAIL_EXPERIMENTS.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/04A_INITIAL_ENSEMBLE_AND_TAIL_EXPERIMENTS.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/04B2_BENEFIT_AWARE_SELECTIVE_CORRECTION.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/04B2_BENEFIT_AWARE_SELECTIVE_CORRECTION.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "regression_v2/notebooks/04B3_BEAT_PROBABILITY_SHRINKAGE.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/04B3_BEAT_PROBABILITY_SHRINKAGE.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/04B4_IMBALANCE_AWARE_GLOBAL_TRAINING.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/04B4_IMBALANCE_AWARE_GLOBAL_TRAINING.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/04B_STEPWISE_TAIL_IMPROVEMENT.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/04B_STEPWISE_TAIL_IMPROVEMENT.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/04C_FINAL_SELECTION_AND_PRE_IID_FREEZE.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/04C_FINAL_SELECTION_AND_PRE_IID_FREEZE.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/05A_ONE_TIME_IID_EVALUATION_AND_ERROR_ANALYSIS.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/05A_ONE_TIME_IID_EVALUATION_AND_ERROR_ANALYSIS.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "regression_v2/notebooks/05B_FAIRNESS_AND_FINAL_EXPLAINABILITY.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/05B_FAIRNESS_AND_FINAL_EXPLAINABILITY.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "regression_v2/notebooks/05C_FINAL_PROJECT_REPORTING.ipynb": {
+    "source_evidence": "regresionpart2/regression_v2/notebooks/05C_FINAL_PROJECT_REPORTING.ipynb",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "classification/notebooks/HMDA_Feature_V2_Standalone_FA.ipynb": {
+    "source_evidence": "HMDA_pipeline_review/project/new new project/notebooks/HMDA_Feature_V2_Standalone_FA.ipynb",
+    "experiment_generation": "classification_standalone_demo",
+    "evaluation_scope": "saved_notebook_outputs",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/classification/binary classification part.ipynb": {
+    "source_evidence": "binary classification part.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESION_PART1.ipynb": {
+    "source_evidence": "main/REGRESION_PART1.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART2_MODELING.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART2_MODELING.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART4_BOOSTING_FOUNDATION.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART4_BOOSTING_FOUNDATION.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART4_CATBOOST.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART4_CATBOOST.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART4_FINAL_INTEGRATION_AND_TEST.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART4_FINAL_INTEGRATION_AND_TEST.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART4_LIGHTGBM.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART4_LIGHTGBM.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART4_XGBOOST.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART4_XGBOOST.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART5_DEEP_BOOSTING_ENSEMBLE.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART5_DEEP_BOOSTING_ENSEMBLE.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "historical/regression/REGRESSION_PART5_DEEP_POSTTEST_EVALUATION.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART5_DEEP_POSTTEST_EVALUATION.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART5_DEEP_TABULAR_MODELS.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART5_DEEP_TABULAR_MODELS.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact copy; not executed"
+  },
+  "historical/regression/REGRESSION_PART6_FINAL_ERROR_ANALYSIS.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART6_FINAL_ERROR_ANALYSIS.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART7_FAIRNESS_SENSITIVE_ANALYSIS.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART7_FAIRNESS_SENSITIVE_ANALYSIS.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART8_FINAL_EXPLAINABILITY.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART8_FINAL_EXPLAINABILITY.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "historical/regression/REGRESSION_PART9_MODEL_CARD_TECHNICAL_REPORT.ipynb": {
+    "source_evidence": "regresionpart2/REGRESSION_PART9_MODEL_CARD_TECHNICAL_REPORT.ipynb",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "outputs/metadata only"
+  },
+  "regression_v2/outputs/reports/prompt1a_cleaning_report.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt1a_cleaning_report.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt1a_outlier_review.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt1a_outlier_review.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt2_candidate_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt2_candidate_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt2_family_comparison.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt2_family_comparison.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt2_lender_ablation.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt2_lender_ablation.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt3_candidate_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt3_candidate_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt3_common_validation_leaderboard.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt3_common_validation_leaderboard.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_ensemble_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_ensemble_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_ensemble_weights.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_ensemble_weights.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_gate_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_gate_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_hard_routing_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_hard_routing_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_prediction_correlations.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_prediction_correlations.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_provisional_acceptance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_provisional_acceptance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_single_model_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_single_model_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_soft_mixture_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_soft_mixture_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4a_tail_weighted_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4a_tail_weighted_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_blockA_candidates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_blockA_candidates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_blockA_factorial.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_blockA_factorial.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_blockB_candidates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_blockB_candidates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_blockB_residual_diagnostics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_blockB_residual_diagnostics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_blockC_candidates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_blockC_candidates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_blockC_router_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_blockC_router_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_cross_block_comparison.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_cross_block_comparison.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b2_router_precision_comparison.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b2_router_precision_comparison.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b3_bootstrap.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b3_bootstrap.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b3_classifier_reliability.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b3_classifier_reliability.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b3_classifier_routing_rates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b3_classifier_routing_rates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b3_cross_stage_comparison.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b3_cross_stage_comparison.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b3_policy_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b3_policy_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b3_six_condition_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b3_six_condition_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b3_zero_fit_beat_baselines.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b3_zero_fit_beat_baselines.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b4_bootstrap.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b4_bootstrap.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b4_candidate_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b4_candidate_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b4_cross_stage_comparison.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b4_cross_stage_comparison.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b4_decile_diagnostics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b4_decile_diagnostics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b4_six_condition_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b4_six_condition_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b4_standalone_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b4_standalone_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b4_substitution_results.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b4_substitution_results.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_cross_stage_comparison.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_cross_stage_comparison.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage1_acceptance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage1_acceptance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage1_calibration.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage1_calibration.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage1_candidates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage1_candidates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage1_oracle_bins.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage1_oracle_bins.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage2_acceptance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage2_acceptance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage2_meta_gate_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage2_meta_gate_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage2_routing_candidates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage2_routing_candidates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage3_acceptance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage3_acceptance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage3_candidates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage3_candidates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage3_residual_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage3_residual_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage4_acceptance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage4_acceptance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage4_candidates.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage4_candidates.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4b_stage4_weights.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4b_stage4_weights.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4c_historical_decile_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4c_historical_decile_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt4c_historical_metric_extension.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4c_historical_metric_extension.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_development_frozen_band_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_development_frozen_band_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_development_iid_transport.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_development_iid_transport.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_error_distribution.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_error_distribution.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_iid_bootstrap.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_iid_bootstrap.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_iid_local_decile_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_iid_local_decile_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_iid_overall_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_iid_overall_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_large_error_analysis.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_large_error_analysis.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_primary_vs_global_rowwise.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_primary_vs_global_rowwise.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_routing_diagnostics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_routing_diagnostics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5a_underprediction_analysis.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_underprediction_analysis.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_correction_behavior.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_correction_behavior.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_decile_explainability.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_decile_explainability.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_disparity_summary.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_disparity_summary.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_error_explainability.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_error_explainability.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_explainability_stability.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_explainability_stability.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_fairness_bootstrap.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_fairness_bootstrap.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_fairness_explainability_link.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_fairness_explainability_link.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_fairness_flags.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_fairness_flags.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_gate_feature_importance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_gate_feature_importance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_global_component_summary.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_global_component_summary.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_global_feature_importance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_global_feature_importance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_global_group_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_global_group_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "retained only saved ELIGIBLE/DISPLAY aggregate rows; all cell strings unchanged"
+  },
+  "regression_v2/outputs/reports/prompt5b_group_decile_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_group_decile_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "retained only saved ELIGIBLE/DISPLAY aggregate rows; all cell strings unchanged"
+  },
+  "regression_v2/outputs/reports/prompt5b_group_inventory.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_group_inventory.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "retained only saved ELIGIBLE/DISPLAY aggregate rows; all cell strings unchanged"
+  },
+  "regression_v2/outputs/reports/prompt5b_group_primary_vs_global.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_group_primary_vs_global.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "retained only saved ELIGIBLE/DISPLAY aggregate rows; all cell strings unchanged"
+  },
+  "regression_v2/outputs/reports/prompt5b_intersectional_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_intersectional_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "retained only saved ELIGIBLE/DISPLAY aggregate rows; all cell strings unchanged"
+  },
+  "regression_v2/outputs/reports/prompt5b_primary_group_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_primary_group_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "retained only saved ELIGIBLE/DISPLAY aggregate rows; all cell strings unchanged"
+  },
+  "regression_v2/outputs/reports/prompt5b_residual_feature_importance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_residual_feature_importance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_routing_sensitive_audit.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_routing_sensitive_audit.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/reports/prompt5b_tail_group_metrics.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5b_tail_group_metrics.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "post_iid_descriptive",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "retained only saved ELIGIBLE/DISPLAY aggregate rows; all cell strings unchanged"
+  },
+  "regression_v2/outputs/final/tables/table_development_to_iid_transport.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_development_to_iid_transport.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_fairness_disparities.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_fairness_disparities.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_fairness_summary.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_fairness_summary.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_final_explainability.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_final_explainability.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_final_model_performance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_final_model_performance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_global_component_importance.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_global_component_importance.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_iid_decile_error_profile.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_iid_decile_error_profile.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_iid_primary_vs_global.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_iid_primary_vs_global.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_intersectional_fairness.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_intersectional_fairness.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_six_condition_generalization.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_six_condition_generalization.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/tables/table_stage3_mechanism.csv": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/tables/table_stage3_mechanism.csv",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate copy"
+  },
+  "regression_v2/outputs/final/figures/figure01_iid_overall_metrics.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure01_iid_overall_metrics.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure02_iid_mae_by_target_decile.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure02_iid_mae_by_target_decile.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure03_iid_mape_by_target_decile.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure03_iid_mape_by_target_decile.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure04_iid_wape_by_target_decile.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure04_iid_wape_by_target_decile.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure05_body_tail_error_comparison.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure05_body_tail_error_comparison.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure06_primary_minus_global_decile_mae.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure06_primary_minus_global_decile_mae.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure07_iid_bootstrap_mae_difference.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure07_iid_bootstrap_mae_difference.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure08_fairness_mae_eligible_groups.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure08_fairness_mae_eligible_groups.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure09_primary_minus_global_fairness_mae.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure09_primary_minus_global_fairness_mae.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure10_global_consensus_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure10_global_consensus_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure11_meta_gate_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure11_meta_gate_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure12_residual_specialist_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure12_residual_specialist_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure13_residual_body_vs_d10_importance.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure13_residual_body_vs_d10_importance.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure14_correction_magnitude_realized_benefit.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure14_correction_magnitude_realized_benefit.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/final/figures/figure15_project_architecture.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/final/figures/figure15_project_architecture.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/01_primary_mae_by_sensitive_group.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/01_primary_mae_by_sensitive_group.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/02_primary_minus_global_by_sensitive_group.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/02_primary_minus_global_by_sensitive_group.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/03_underprediction_by_sensitive_group.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/03_underprediction_by_sensitive_group.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/04_top_decile_mae_by_sensitive_group.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/04_top_decile_mae_by_sensitive_group.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/05_group_mae_gaps_bootstrap.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/05_group_mae_gaps_bootstrap.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/06_intersectional_mae.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/06_intersectional_mae.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/07_global_consensus_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/07_global_consensus_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/08_catboost_shap_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/08_catboost_shap_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/09_lightgbm_shap_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/09_lightgbm_shap_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/10_xgboost_shap_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/10_xgboost_shap_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/11_gate_shap_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/11_gate_shap_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/12_residual_shap_top15.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/12_residual_shap_top15.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/13_residual_body_vs_d10.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/13_residual_body_vs_d10.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/14_correction_magnitude_realized_benefit.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/14_correction_magnitude_realized_benefit.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/figures/prompt5b/15_routed_fraction_by_decile.png": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/figures/prompt5b/15_routed_fraction_by_decile.png",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate figure; not regenerated"
+  },
+  "regression_v2/outputs/reports/prompt3_environment.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt3_environment.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "transformed",
+    "transformation_description": "environment metadata: python_executable and cache_paths replaced by user-local placeholders; versions unchanged"
+  },
+  "regression_v2/outputs/reports/prompt2_frozen_design.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt2_frozen_design.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact frozen aggregate/configuration evidence"
+  },
+  "regression_v2/outputs/reports/prompt3_frozen_design.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt3_frozen_design.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact frozen aggregate/configuration evidence"
+  },
+  "regression_v2/outputs/reports/prompt4c_refit_plan.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4c_refit_plan.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact frozen aggregate/configuration evidence"
+  },
+  "regression_v2/outputs/reports/prompt5a_iid_six_condition_check.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt5a_iid_six_condition_check.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "iid",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact frozen aggregate/configuration evidence"
+  },
+  "regression_v2/outputs/reports/FINAL_IID_EVALUATION.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/FINAL_IID_EVALUATION.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact frozen aggregate/configuration evidence"
+  },
+  "regression_v2/outputs/reports/FINAL_PROJECT_COMPLETE.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/FINAL_PROJECT_COMPLETE.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact frozen aggregate/configuration evidence"
+  },
+  "historical/regression/stage8_recovery.py": {
+    "source_evidence": "regresionpart2/stage8_recovery.py",
+    "experiment_generation": "historical",
+    "evaluation_scope": "not_applicable",
+    "scientific_status": "historical",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact existing historical helper dependency; not executed"
+  },
+  "regression_v2/outputs/reports/prompt3_deep_anchor.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt3_deep_anchor.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate refit/selection metadata; no model binary copied"
+  },
+  "regression_v2/outputs/models/prompt3/refits/selected_ft_full_train/result.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/models/prompt3/refits/selected_ft_full_train/result.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "saved_reporting",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate refit/selection metadata; no model binary copied"
+  },
+  "regression_v2/outputs/reports/prompt4c_refit_summary.json": {
+    "source_evidence": "regresionpart2/regression_v2/outputs/reports/prompt4c_refit_summary.json",
+    "experiment_generation": "regression_v2",
+    "evaluation_scope": "development",
+    "scientific_status": "supporting_analysis",
+    "copied_or_transformed": "copied",
+    "transformation_description": "exact saved aggregate refit/selection metadata; no model binary copied"
   }
 }

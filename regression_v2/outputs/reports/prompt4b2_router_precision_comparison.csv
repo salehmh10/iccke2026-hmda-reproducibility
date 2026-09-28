@@ -1,0 +1,6 @@
+router_id,selected_rows,selected_percentage,positive_benefit_precision,positive_benefit_recall,mean_realized_benefit_selected,comparison_proposal
+old_tail_gate_t85,10169,10.169,0.4260989281148589,0.21828715365239296,-7.332352134534378,"clip(max(full Stage 3 residual,0),0,cap25)"
+meta_tail_gate_t75,4583,4.583,0.4521056076805586,0.10438287153652392,1.6181445204411509,"clip(max(full Stage 3 residual,0),0,cap25)"
+benefit_b0,2235,2.235,0.483668903803132,0.05445843828715365,5.5868258888581375,"clip(max(full Stage 3 residual,0),0,cap25)"
+benefit_b5,750,0.75,0.5293333333333333,0.02,9.940017659147559,"clip(max(full Stage 3 residual,0),0,cap25)"
+benefit_b10,195,0.19499999999999998,0.6205128205128205,0.0060957178841309825,22.36076553176852,"clip(max(full Stage 3 residual,0),0,cap25)"
