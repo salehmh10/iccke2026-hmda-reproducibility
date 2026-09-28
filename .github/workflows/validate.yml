@@ -1,0 +1,26 @@
+name: Validate evidence package
+on:
+  push:
+    branches: [main, codex/build-complete-reproducibility-package]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install lightweight test dependency
+        run: python -m pip install pytest==9.1.1
+      - name: Synthetic and static tests
+        run: python -m pytest -q -p no:cacheprovider
+      - name: Publication, scope, traceability, manifest, and link checks
+        run: python scripts/validate_repository.py
+      - name: Notebook output check
+        run: python scripts/check_notebook_outputs.py
