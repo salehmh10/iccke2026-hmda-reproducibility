@@ -1,0 +1,33 @@
+{
+  "baseline_pr_auc": {
+    "lightgbm": 0.44598060247228666,
+    "logistic_regression": 0.3986108328197573
+  },
+  "convergence_warnings": {
+    "lightgbm": 0,
+    "logistic_regression": 1
+  },
+  "eligible_configurations": [],
+  "encoded_features": 66,
+  "model_fit_seconds": 73.58827229995222,
+  "seed": 20260811,
+  "selected_configuration": "onehot_numeric",
+  "selected_delta": {
+    "lightgbm": 0.00190113309165868,
+    "logistic_regression": 0.008698817695124206
+  },
+  "selected_families": [
+    "onehot_numeric"
+  ],
+  "selected_pr_auc": {
+    "lightgbm": 0.44788173556394534,
+    "logistic_regression": 0.4073096505148815
+  },
+  "selection_rule": "candidate must improve PR-AUC for both LightGBM and logistic and have no more logistic convergence warnings than baseline; rank LightGBM delta primary plus 0.25 * logistic delta, then fewer features",
+  "selection_stage": "independent third-seed train-only OOF confirmation",
+  "test_rows_used": false,
+  "source_artifact": "HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/CONFIRMED_FEATURE_CONFIG.json",
+  "source_row_key": "root",
+  "scientific_status": "supporting_analysis",
+  "evaluation_scope": "train_only_validation"
+}

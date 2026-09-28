@@ -1,0 +1,29 @@
+{
+  "baseline_pr_auc": {
+    "lightgbm": 0.4481463952265301,
+    "logistic_regression": 0.3988210711118302
+  },
+  "eligible_rule_satisfied": true,
+  "mean_delta": 0.007922785154465317,
+  "selected_configuration": "all_candidates",
+  "selected_delta": {
+    "lightgbm": -0.0001525561485429261,
+    "logistic_regression": 0.01599812645747356
+  },
+  "selected_families": [
+    "numeric_relative",
+    "nonlinear",
+    "category_context",
+    "onehot_numeric"
+  ],
+  "selected_pr_auc": {
+    "lightgbm": 0.4479938390779872,
+    "logistic_regression": 0.41481919756930374
+  },
+  "selection_rule": "positive mean PR-AUC delta across LightGBM/logistic, with LightGBM delta >= -0.00025 and logistic delta >= -0.00050; within 0.00020 of best choose the fewest encoded features",
+  "test_rows_used": false,
+  "source_artifact": "HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/SELECTED_FEATURE_CONFIG.json",
+  "source_row_key": "root",
+  "scientific_status": "supporting_analysis",
+  "evaluation_scope": "train_only_validation"
+}

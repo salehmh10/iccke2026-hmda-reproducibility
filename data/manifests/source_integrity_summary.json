@@ -1,0 +1,18 @@
+{
+  "entries": 47477,
+  "files": 42970,
+  "directories": 4507,
+  "selected_hashes": 1767,
+  "inventory_added": [],
+  "inventory_removed": [],
+  "inventory_changed": [],
+  "hashes_added": [],
+  "hashes_removed": [],
+  "hashes_changed": [],
+  "status": "PASS",
+  "coverage": "Complete source path/size/mtime metadata for files and directories; selected scientific text/notebook/PDF/aggregate SHA-256 only. No raw data or model byte verification.",
+  "old_repository_baseline_commit": "85204fb19328c29c55358d5f5c98bb5900a08149",
+  "source_write_operations": 0,
+  "manuscript_modifications": 0,
+  "related_work_change_13_modifications": 0
+}

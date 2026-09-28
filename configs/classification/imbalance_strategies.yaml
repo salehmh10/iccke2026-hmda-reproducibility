@@ -1,0 +1,8 @@
+seed: 20260809
+variants:
+  original_weighted: balanced class/sample weights on original Train
+  oversampled: RandomOverSampler applied only within Train; corrected Stacking CV
+    groups cloned source rows
+  undersampled: RandomUnderSampler within Train
+validation_and_test: unchanged original prevalence
+source_artifact: HMDA_pipeline_review/project/new new project/src/data/variants.py

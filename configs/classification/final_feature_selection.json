@@ -1,0 +1,18 @@
+{
+  "candidate_features_rejected": 65,
+  "candidate_features_selected": 33,
+  "category_statistics": "X-only and fitted only on the MI training sample",
+  "encoded_features": 66,
+  "mi_rows": 30000,
+  "mi_source": "original-weighted training split only",
+  "selected_configuration": "onehot_numeric",
+  "selected_families": [
+    "onehot_numeric"
+  ],
+  "selection_source": "reports/generations/feature_v2/CONFIRMED_FEATURE_CONFIG.json",
+  "test_rows_used": false,
+  "source_artifact": "HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/FINAL_FEATURE_SELECTION.json",
+  "source_row_key": "root",
+  "scientific_status": "supporting_analysis",
+  "evaluation_scope": "train_only_validation"
+}

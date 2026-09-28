@@ -1,0 +1,20 @@
+{
+  "decision_stage": "validation_only_before_test_access",
+  "primary_metric": "pr_auc",
+  "candidate_scope": "best non-degenerate 60000-row V2 predictive candidate",
+  "baseline_scope": "best non-degenerate 60000-row V1 predictive candidate",
+  "accept_v2_if": {
+    "pr_auc_delta_minimum": 0.0,
+    "mcc_delta_minimum": -0.005,
+    "balanced_accuracy_delta_minimum": -0.005,
+    "unique_prediction_classes_minimum": 2,
+    "artifact_reload_max_probability_difference": 1e-08
+  },
+  "otherwise": "recommend the immutable baseline V1 rollback generation",
+  "test_policy": "test is accessed once only after the validation decision is sealed; test metrics are reported but do not change the selected generation",
+  "test_rows_used_to_define_rule": false,
+  "source_artifact": "HMDA_pipeline_review/project/new new project/reports/generations/feature_v2/ACCEPTANCE_RULE.json",
+  "source_row_key": "root",
+  "scientific_status": "supporting_analysis",
+  "evaluation_scope": "validation"
+}
