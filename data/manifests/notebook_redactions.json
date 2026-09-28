@@ -1,0 +1,537 @@
+[
+  {
+    "path": "regression_v2/notebooks/04B2_BENEFIT_AWARE_SELECTIVE_CORRECTION.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 35,
+        "output_zero_based": 0,
+        "reason": "individual predicted/realized benefit scatter"
+      },
+      {
+        "cell_zero_based": 35,
+        "output_zero_based": 1,
+        "reason": "individual predicted/realized benefit scatter"
+      }
+    ]
+  },
+  {
+    "path": "regression_v2/notebooks/05B_FAIRNESS_AND_FINAL_EXPLAINABILITY.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 38,
+        "output_zero_based": 0,
+        "reason": "individual local cases and contributions"
+      },
+      {
+        "cell_zero_based": 38,
+        "output_zero_based": 1,
+        "reason": "individual local cases and contributions"
+      }
+    ]
+  },
+  {
+    "path": "classification/notebooks/HMDA_Feature_V2_Standalone_FA.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 1,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 22,
+        "output_zero_based": 5,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 22,
+        "output_zero_based": 9,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 22,
+        "output_zero_based": 15,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 22,
+        "output_zero_based": 19,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 22,
+        "output_zero_based": 21,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 22,
+        "output_zero_based": 26,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 22,
+        "output_zero_based": 30,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 26,
+        "output_zero_based": 2,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 26,
+        "output_zero_based": 4,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 26,
+        "output_zero_based": 9,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 26,
+        "output_zero_based": 11,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 26,
+        "output_zero_based": 16,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 26,
+        "output_zero_based": 18,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 34,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 34,
+        "output_zero_based": 1,
+        "reason": "personal filesystem path in saved output"
+      }
+    ]
+  },
+  {
+    "path": "historical/classification/binary classification part.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 2,
+        "output_zero_based": 0,
+        "reason": "applicant-row preview"
+      },
+      {
+        "cell_zero_based": 13,
+        "output_zero_based": 0,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 15,
+        "output_zero_based": 0,
+        "reason": "individual applicant pairplot"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESION_PART1.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 5,
+        "output_zero_based": 0,
+        "reason": "sample feature values"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 0,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 1,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 2,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 3,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 4,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 5,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 6,
+        "reason": "individual applicant scatter"
+      },
+      {
+        "cell_zero_based": 27,
+        "output_zero_based": 0,
+        "reason": "individual applicant pairplot"
+      },
+      {
+        "cell_zero_based": 33,
+        "output_zero_based": 0,
+        "reason": "individual outlier points in plots"
+      },
+      {
+        "cell_zero_based": 33,
+        "output_zero_based": 1,
+        "reason": "individual outlier points in plots"
+      },
+      {
+        "cell_zero_based": 33,
+        "output_zero_based": 2,
+        "reason": "individual outlier points in plots"
+      },
+      {
+        "cell_zero_based": 33,
+        "output_zero_based": 3,
+        "reason": "individual outlier points in plots"
+      },
+      {
+        "cell_zero_based": 33,
+        "output_zero_based": 4,
+        "reason": "individual outlier points in plots"
+      },
+      {
+        "cell_zero_based": 33,
+        "output_zero_based": 5,
+        "reason": "individual outlier points in plots"
+      },
+      {
+        "cell_zero_based": 72,
+        "output_zero_based": 0,
+        "reason": "applicant-row preview"
+      },
+      {
+        "cell_zero_based": 72,
+        "output_zero_based": 1,
+        "reason": "applicant-row preview"
+      },
+      {
+        "cell_zero_based": 77,
+        "output_zero_based": 0,
+        "reason": "applicant-row previews"
+      },
+      {
+        "cell_zero_based": 77,
+        "output_zero_based": 1,
+        "reason": "applicant-row previews"
+      },
+      {
+        "cell_zero_based": 77,
+        "output_zero_based": 2,
+        "reason": "applicant-row previews"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART2_MODELING.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 2,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 5,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 11,
+        "output_zero_based": 0,
+        "reason": "applicant-row preview"
+      },
+      {
+        "cell_zero_based": 11,
+        "output_zero_based": 1,
+        "reason": "applicant-row preview"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART4_BOOSTING_FOUNDATION.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 6,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART4_CATBOOST.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 5,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 62,
+        "output_zero_based": 1,
+        "reason": "row-level identifier/prediction table"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART4_FINAL_INTEGRATION_AND_TEST.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 60,
+        "output_zero_based": 0,
+        "reason": "individual actual/predicted values in scatter plots"
+      },
+      {
+        "cell_zero_based": 60,
+        "output_zero_based": 1,
+        "reason": "individual actual/predicted values in scatter plots"
+      },
+      {
+        "cell_zero_based": 60,
+        "output_zero_based": 2,
+        "reason": "individual actual/predicted values in scatter plots"
+      },
+      {
+        "cell_zero_based": 62,
+        "output_zero_based": 0,
+        "reason": "individual residual scatter"
+      },
+      {
+        "cell_zero_based": 62,
+        "output_zero_based": 1,
+        "reason": "individual residual scatter"
+      },
+      {
+        "cell_zero_based": 62,
+        "output_zero_based": 2,
+        "reason": "individual residual scatter"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART4_LIGHTGBM.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 1,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 7,
+        "output_zero_based": 1,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 25,
+        "output_zero_based": 1,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 59,
+        "output_zero_based": 1,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 79,
+        "output_zero_based": 2,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 83,
+        "output_zero_based": 0,
+        "reason": "row-level identifier/prediction table"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART4_XGBOOST.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 79,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 79,
+        "output_zero_based": 1,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 79,
+        "output_zero_based": 2,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 85,
+        "output_zero_based": 1,
+        "reason": "row-level identifier/prediction table"
+      },
+      {
+        "cell_zero_based": 85,
+        "output_zero_based": 2,
+        "reason": "row-level identifier/prediction table"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART5_DEEP_POSTTEST_EVALUATION.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 12,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      },
+      {
+        "cell_zero_based": 16,
+        "output_zero_based": 0,
+        "reason": "personal filesystem path in saved output"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART6_FINAL_ERROR_ANALYSIS.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 42,
+        "output_zero_based": 0,
+        "reason": "individual worst predictions"
+      },
+      {
+        "cell_zero_based": 44,
+        "output_zero_based": 0,
+        "reason": "individual worst-case overlap"
+      },
+      {
+        "cell_zero_based": 46,
+        "output_zero_based": 0,
+        "reason": "individual representative cases"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART7_FAIRNESS_SENSITIVE_ANALYSIS.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 0,
+        "reason": "individual representative cases"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART8_FINAL_EXPLAINABILITY.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 44,
+        "output_zero_based": 0,
+        "reason": "individual case attributions"
+      },
+      {
+        "cell_zero_based": 44,
+        "output_zero_based": 1,
+        "reason": "individual case attributions"
+      },
+      {
+        "cell_zero_based": 46,
+        "output_zero_based": 0,
+        "reason": "individual case attributions"
+      },
+      {
+        "cell_zero_based": 48,
+        "output_zero_based": 0,
+        "reason": "individual case attributions"
+      },
+      {
+        "cell_zero_based": 48,
+        "output_zero_based": 1,
+        "reason": "individual case attributions"
+      },
+      {
+        "cell_zero_based": 50,
+        "output_zero_based": 0,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 50,
+        "output_zero_based": 1,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 50,
+        "output_zero_based": 2,
+        "reason": "individual case synthesis"
+      }
+    ]
+  },
+  {
+    "path": "historical/regression/REGRESSION_PART9_MODEL_CARD_TECHNICAL_REPORT.ipynb",
+    "redactions": [
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 0,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 1,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 2,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 3,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 4,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 5,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 52,
+        "output_zero_based": 6,
+        "reason": "individual case synthesis"
+      },
+      {
+        "cell_zero_based": 68,
+        "output_zero_based": 0,
+        "reason": "embedded report includes individual case section"
+      },
+      {
+        "cell_zero_based": 68,
+        "output_zero_based": 1,
+        "reason": "embedded report includes individual case section"
+      },
+      {
+        "cell_zero_based": 68,
+        "output_zero_based": 2,
+        "reason": "embedded report includes individual case section"
+      }
+    ]
+  }
+]

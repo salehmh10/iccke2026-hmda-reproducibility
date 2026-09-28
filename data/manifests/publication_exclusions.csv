@@ -1,0 +1,13 @@
+source,reason
+regresionpart2/stage4_boosting_utils.py,personal path embedded in historical implementation
+regresionpart2/stage4l_evaluation_utils.py,personal path embedded in historical implementation
+regresionpart2/stage5_deep_preprocessing.py,personal path embedded in historical implementation
+regresionpart2/stage5b_ensemble_utils.py,personal path embedded in historical implementation
+regresionpart2/stage5c_posttest_utils.py,personal path embedded in historical implementation
+regresionpart2/REGRESSION_PART3_TREE_MODELS.ipynb,personal path in notebook source; cannot redact code/Markdown
+main/DATA_CLEANING_FOR_14M.ipynb,"personal paths in code cells 3,5,7,9,13 (zero-based); original untouched; previous code-edited target copy removed"
+regresionpart2/REGRESSION_PART9_VISUAL_PROJECT_SUMMARY.ipynb,redundant visual summary; main Stage9 notebook retained
+HMDA_pipeline_review/project/binary classification corrected v2.ipynb,"intermediate approval-positive generation, not retained manuscript Feature-V2"
+HMDA_pipeline_review/project/hmda_binary_pipeline_v2.py,"separate five-way-split development implementation, not manuscript Feature-V2"
+regresionpart2/regression_v2/outputs/reports/prompt5b_local_cases.csv,individual cases/predictions; excluded
+regresionpart2/regression_v2/outputs/explainability/prompt5b/local_case_contributions.parquet,individual explanations; excluded
