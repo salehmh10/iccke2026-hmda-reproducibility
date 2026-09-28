@@ -1,0 +1,75 @@
+{
+  "status": "PARTIAL",
+  "conditions_passed": 5,
+  "conditions_total": 6,
+  "conditions": [
+    {
+      "condition": "C1",
+      "description": "Primary overall MAE improves over Global",
+      "metric": "mae",
+      "operator": "<",
+      "threshold": 62.444349310930285,
+      "primary_value": 62.26062600334689,
+      "global_value": 62.444349310930285,
+      "status": "PASS"
+    },
+    {
+      "condition": "C2",
+      "description": "Primary Top-decile MAE improves by at least 3%",
+      "metric": "top_decile_mae",
+      "operator": "<=",
+      "threshold": 188.8422022660465,
+      "primary_value": 191.9663851471891,
+      "global_value": 194.68268274850158,
+      "status": "FAIL"
+    },
+    {
+      "condition": "C3",
+      "description": "Primary Bottom-90 MAE worsens by no more than 0.25%",
+      "metric": "bottom_90_mae",
+      "operator": "<=",
+      "threshold": 47.864032249313425,
+      "primary_value": 47.84246948000145,
+      "global_value": 47.744670572881226,
+      "status": "PASS"
+    },
+    {
+      "condition": "C4",
+      "description": "Primary RMSE worsens by no more than 0.25%",
+      "metric": "rmse",
+      "operator": "<=",
+      "threshold": 137.74068494565864,
+      "primary_value": 134.92018100101333,
+      "global_value": 137.3971919657443,
+      "status": "PASS"
+    },
+    {
+      "condition": "C5",
+      "description": "Primary Top-decile signed error is closer to zero",
+      "metric": "top_decile_signed_error",
+      "operator": "abs(primary) < abs(global)",
+      "threshold": 142.35585579384912,
+      "primary_value": -129.97388529113564,
+      "global_value": -142.35585579384912,
+      "status": "PASS"
+    },
+    {
+      "condition": "C6",
+      "description": "Primary Top-decile underprediction rate decreases",
+      "metric": "top_decile_underprediction_rate",
+      "operator": "<",
+      "threshold": 0.7923497267759563,
+      "primary_value": 0.7759562841530054,
+      "global_value": 0.7923497267759563,
+      "status": "PASS"
+    }
+  ],
+  "model_selection_effect": "none; the frozen Primary remains unchanged",
+  "created_at_utc": "2026-08-07T22:22:17.544307+00:00",
+  "primary_model_id": "final_primary_stage3_500k",
+  "global_model_id": "final_global_500k",
+  "source_artifact": "regresionpart2/regression_v2/outputs/reports/prompt5a_iid_six_condition_check.json",
+  "source_row_key": "conditions",
+  "scientific_status": "authoritative_manuscript_result",
+  "evaluation_scope": "iid_evaluation"
+}

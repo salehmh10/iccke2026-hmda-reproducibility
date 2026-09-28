@@ -1,0 +1,112 @@
+name: main_without_sensitive_without_lender
+features:
+- agency_name
+- loan_type_name
+- property_type_name
+- loan_purpose_name
+- owner_occupancy_name
+- preapproval_name
+- msamd_name
+- state_name
+- state_abbr
+- state_code
+- county_name
+- county_code
+- census_tract_number
+- lien_status_name
+- applicant_income_000s
+- population
+- hud_median_family_income
+- tract_to_msamd_income
+- number_of_owner_occupied_units
+- number_of_1_to_4_family_units
+- log1p_applicant_income
+- log1p_population
+- log1p_hud_median_family_income
+- log1p_owner_occupied_units
+- log1p_1_to_4_family_units
+- applicant_income_to_area_income
+- tract_income_ratio
+- owner_occupied_unit_ratio
+- family_units_per_1000_people
+- owner_occupied_units_per_1000_people
+- has_co_applicant
+- loan_program_group
+- applicant_income_area_group
+- tract_income_level
+- us_region
+target: loan_amount_000s
+unit: kUSD
+state_to_region:
+  Connecticut: Northeast
+  Maine: Northeast
+  Massachusetts: Northeast
+  New Hampshire: Northeast
+  Rhode Island: Northeast
+  Vermont: Northeast
+  New Jersey: Northeast
+  New York: Northeast
+  Pennsylvania: Northeast
+  Illinois: Midwest
+  Indiana: Midwest
+  Michigan: Midwest
+  Ohio: Midwest
+  Wisconsin: Midwest
+  Iowa: Midwest
+  Kansas: Midwest
+  Minnesota: Midwest
+  Missouri: Midwest
+  Nebraska: Midwest
+  North Dakota: Midwest
+  South Dakota: Midwest
+  Delaware: South
+  District of Columbia: South
+  Florida: South
+  Georgia: South
+  Maryland: South
+  North Carolina: South
+  South Carolina: South
+  Virginia: South
+  West Virginia: South
+  Alabama: South
+  Kentucky: South
+  Mississippi: South
+  Tennessee: South
+  Arkansas: South
+  Louisiana: South
+  Oklahoma: South
+  Texas: South
+  Arizona: West
+  Colorado: West
+  Idaho: West
+  Montana: West
+  Nevada: West
+  New Mexico: West
+  Utah: West
+  Wyoming: West
+  Alaska: West
+  California: West
+  Hawaii: West
+  Oregon: West
+  Washington: West
+  Puerto Rico: Other
+formulas:
+  log1p_applicant_income: log1p(applicant_income_000s)
+  log1p_population: log1p(population)
+  log1p_hud_median_family_income: log1p(hud_median_family_income)
+  log1p_owner_occupied_units: log1p(number_of_owner_occupied_units)
+  log1p_1_to_4_family_units: log1p(number_of_1_to_4_family_units)
+  applicant_income_to_area_income: applicant_income_000s / (hud_median_family_income
+    / 1000)
+  tract_income_ratio: tract_to_msamd_income / 100
+  owner_occupied_unit_ratio: number_of_owner_occupied_units / number_of_1_to_4_family_units
+  family_units_per_1000_people: 1000 * number_of_1_to_4_family_units / population
+  owner_occupied_units_per_1000_people: 1000 * number_of_owner_occupied_units / population
+  has_co_applicant: 1[co_applicant_sex_name does not contain No co-applicant (case-insensitive)]
+  loan_program_group: Government backed if loan_type_name matches FHA|VA|FSA|RHS,
+    else Conventional
+  applicant_income_area_group: 'right-closed bins (-inf,0.5,0.8,1.2,inf) of applicant_income_to_area_income:
+    Very low/Low/Moderate/High'
+  tract_income_level: same right-closed bins of tract_income_ratio
+  us_region: STATE_TO_REGION lookup; unknown and Puerto Rico -> Other
+source_artifact: regresionpart2/regression_v2/src/feature_engineering.py
