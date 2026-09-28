@@ -1,0 +1,23 @@
+encoded_columns: 33
+numeric_columns: 9
+categorical_indicators: 24
+numeric_order:
+- loan_amount_000s
+- applicant_income_000s
+- loan_to_income
+- log1p_loan_amount_000s
+- log1p_applicant_income_000s
+- tract_to_msamd_income_ratio
+- applicant_income_to_area_median
+- applicant_income_zero
+- hud_median_family_income_zero
+categorical_fields:
+- agency_name
+- loan_type_name
+- property_type_name
+- loan_purpose_name
+- owner_occupancy_name
+- preapproval_name
+- lien_status_name
+vocabulary_evidence: saved smoke; production vocabulary unverified
+dictionary: results/classification/feature_v1_dictionary.csv

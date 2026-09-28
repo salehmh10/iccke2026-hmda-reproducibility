@@ -1,0 +1,8 @@
+encoded_columns: 66
+base_encoded_columns: 33
+selected_interactions: 33
+selected_family: onehot_numeric
+min_category_count: 500
+interaction_dictionary: results/classification/feature_v2_interactions_33.csv
+formula: X * 1[C=c]
+selection: documented fallback; no eligible configuration at confirmation
