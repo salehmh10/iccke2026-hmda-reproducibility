@@ -1,7 +1,5 @@
 # Regression
 
-This update packages existing work. No research, notebook, software test or CI workflow was rerun.
-
 ## Regression V2 features
 
 The [35-predictor dictionary](../results/regression/feature_dictionary_35.csv) enumerates the exact main contract, with all formulas. It contains 20 retained raw predictors and 15 engineered predictors. Numeric transformations include five log1p variables, applicant/area income, tract-income ratio, housing-stock ratios, and per-1,000-person unit counts. Invalid divisions produce missing values for downstream handling.
@@ -115,6 +113,6 @@ The [original report directory](../regression_v2/outputs/reports/README.md) cont
 
 The three-row global_component_summary (also exported as explainability_component_summary) contains frozen weights and component prediction means. It is not a feature-importance table.
 
-Subgroup publication retains only rows already marked ELIGIBLE, and group-decile rows already marked DISPLAY. Original suppression rules are n>=200 for groups, n>=50 for tail groups, n>=30 for group-decile cells and n>=500 for intersections. No metric or rank was recalculated. Excluded small-group rows and local case files are not published. Fairness results remain descriptive, non-causal and non-legal.
+Subgroup publication retains only rows already marked ELIGIBLE, and group-decile rows already marked DISPLAY. Original suppression rules are n>=200 for ordinary groups, n>=50 for tail groups, and n>=30 for group-decile cells. Overall intersections require n>=500; tail-restricted intersections require n>=50. No metric or rank was recalculated. Excluded small-group rows and local case files are not published. Fairness results remain descriptive, non-causal and non-legal.
 
 The base family comparison includes Train-mean and Train-median baselines. The saved lender ablation and separate final deep-anchor record are included where available. Later development Audit comparisons are adaptive/descriptive, not another independent Test.

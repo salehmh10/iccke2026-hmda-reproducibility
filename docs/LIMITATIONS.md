@@ -1,10 +1,8 @@
 # Limitations and excluded files
 
-This update packages existing work. No research, notebook, software test or CI workflow was rerun.
-
 ## Unresolved evidence and manuscript discrepancies
 
-1. Historical classification cleaning code is recovered, but a complete immutable execution/hash chain through every intermediate to the supplied extract is unresolved. National sampling representativeness is not established.
+1. Historical classification cleaning code was inspected in the source project and is not redistributed here; a complete immutable execution/hash chain through every intermediate to the supplied extract is unresolved. National sampling representativeness is not established.
 2. All 33 V1 encoded names are available from saved standalone smoke metadata; exact production categorical vocabulary and its column order have not been independently verified without serialized objects. The dictionary labels this distinction.
 3. Exact V1/V2 capped training membership is asymmetric; no membership reconstruction is authorized. Hybrid weights, calibrated functions and thresholds differ, so the comparison is partially confounded.
 4. TabNet's explicitly saved settings and version are available; unrecorded library defaults remain unresolved. Historical environments are not demonstrated as a clean, fully locked rebuild.

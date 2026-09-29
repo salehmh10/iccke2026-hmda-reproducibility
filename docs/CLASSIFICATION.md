@@ -1,7 +1,5 @@
 # Classification
 
-This update packages existing work. No research, notebook, software test or CI workflow was rerun.
-
 ## Classification pipeline generations
 
 | Source generation | Role and limits |

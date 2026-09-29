@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the associated paper and this private release candidate as permitted by the authors."
 title: "Reproducibility package: Boosting and Deep Tabular Learning on HMDA: Feature-Interaction Classification and Tail-Aware Loan-Amount Regression"
 type: software
-version: 1.0.0-rc2
+version: 1.0.0-rc3
 authors:
   - family-names: "Mohammad Hasani"
     given-names: "Saleh"
@@ -11,4 +11,4 @@ authors:
     given-names: "Reza"
     affiliation: "Department of Electrical Engineering, Sharif University of Technology"
 repository-code: "https://github.com/salehmh10/iccke2026-hmda-reproducibility"
-abstract: "Private aggregate-evidence and static-source companion for ICCKE 2026 paper 1059; no applicant data or models."
+abstract: "Code, original notebooks, and saved results for the HMDA tabular-learning study. Private release candidate for paper 1059; applicant-level data and fitted models are excluded."

@@ -1,7 +1,5 @@
 # Evidence sources and publication copies
 
-This update packages existing work. No research, notebook, software test or CI workflow was rerun.
-
 ## Manuscript identity and untouched boundary
 
 The root PDF `ICCKE2026_Boosting_vs_Deep_Tabular_HMDA.pdf` is byte-identical to `paper_revision/main_FINAL_6PAGES_TARGETED_EDITS.pdf`. Its matching editable source is `paper_revision/main_FINAL_6PAGES_TARGETED_EDITS.tex`. Static text inspection confirms the exact title, author order, affiliation, classification AP values 0.4606/0.4621, and Regression V2 MAE values 62.444/62.261 kUSD. The older `paper_revision/main.tex` is a different revision and was not used to choose the accepted version.
@@ -12,7 +10,7 @@ Authors: Saleh Mohammad Hasani and Reza Kazemeiny Moghaddam. Affiliation: Depart
 
 ICCKE 2026 and paper code 1059 are administrative context supplied by the repository owner. A local acceptance letter was not identified, so this package does not independently certify acceptance.
 
-The paper, editable sources, figures, bibliography, author metadata, and ZIPs are excluded from the repository and remain unchanged. Related Work change 13 is excluded. Documentation records implementation discrepancies without changing manuscript prose: interaction selection used a fallback; AP uses average precision; routing strength depends on gate probability; `has_co_applicant` derives from a sensitive source field.
+The paper, editable sources, figures, bibliography, author metadata, and ZIPs are excluded from the repository and remain unchanged. Documentation records implementation discrepancies without changing manuscript prose: interaction selection used a fallback; AP uses average precision; routing strength depends on gate probability; `has_co_applicant` derives from a sensitive source field.
 
 Source evidence (relative to the read-only source collection):
 - `ICCKE2026_Boosting_vs_Deep_Tabular_HMDA.pdf`
@@ -57,12 +55,12 @@ Classification Validation rows use experiment IDs; Test rows use finalist roles 
 
 The public artifact manifest identifies each packaged file's role and transformation. Source-availability caveats and implementation/manuscript differences are tracked in [unresolved gaps](LIMITATIONS.md). Static row mappings and hashes identify the saved sources. They do not recreate missing data or model evidence.
 
-## This publication update
+## Publication history
 
-[Publication copies](../data/manifests/publication_copies.json) records source-relative paths, original and publication SHA-256 values, exact-copy or redaction status, and original CSV line mappings. CSV line 1 is the header. Filtered tables retain every value of the selected source row. [Notebook provenance](../data/manifests/notebook_provenance.csv) and [output/metadata redactions](../data/manifests/notebook_redactions.json) preserve the distinction between an exact copy and a sanitized copy. The two public artifact manifest files are excluded from their own hash set to avoid recursive self-hashing.
+The rc2 [publication-copy record](../data/manifests/publication_copies.json) records source-relative paths, original and publication SHA-256 values, exact-copy or redaction status, and original CSV line mappings. CSV line 1 is the header. Filtered tables retain every value of the selected source row. [Notebook provenance](../data/manifests/notebook_provenance.csv) and [output/metadata redactions](../data/manifests/notebook_redactions.json) preserve the distinction between an exact copy and a sanitized copy. The two public artifact manifest files are excluded from their own hash set to avoid recursive self-hashing.
 
 Source-relative paths identify the original read-only collection; they are not all files redistributed in this repository. The historical repository tree was inspected read-only and contains the older notebooks, not the Regression V2 notebook set. The fuller local retained projects supply the current generations. Detailed source inventory and operational logs stay outside tracked content.
 
-This update uses static inspection only: source-byte and notebook-cell comparison, saved-table string comparison, link inspection, file counts and checksums. No project validator, test, application, notebook or CI job was run. Historical rc1 tests and saved notebook status messages must not be assigned to the new commit.
+The rc3 update changes documentation and release metadata only. Static review compares the current packaged files with their starting hashes, reads configuration and source text, checks documentation paths, and updates only changed publication-file manifest entries. All existing notebook bytes, code, runtime configurations, dependencies, numerical evidence and figures are preserved. No project validator, test, application, notebook or CI job was run. Historical rc1 tests and saved notebook status messages retain their original version and commit scope.
 
-The old completion report, release-readiness certificate, self-review dashboard and separate safety report were removed. Thirty-seven short documentation files were consolidated into six technical guides. Scientific caveats and source lineage remain in these guides and machine-readable tables.
+The earlier rc2 packaging update consolidated the documentation into six technical guides. Scientific caveats and source lineage remain in these guides and machine-readable tables.
