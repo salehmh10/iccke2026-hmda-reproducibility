@@ -7,5 +7,5 @@
 - Keep original task structure and scientific settings. Use companion Markdown for explanations; never author a replacement notebook, runner or test.
 - Keep Classification generations and historical Regression separate. Retain denial-positive AP, reused-Test/fallback limits, the exact Regression routing formula and five-of-six result with C2 failed.
 - Use static reading, parsing, counts, comparisons, checksums and ZIP packaging only. Keep private operational notes outside tracked content. No new execution-success claims.
-- Verify GitHub identity salehmh10 before remote mutations. Prevent automatic Actions runs before push/PR/tag. Never bypass branch protection. Keep repository private and releases draft; preserve existing tags/releases.
+- Verify GitHub identity salehmh10 before remote mutations. Prevent automatic Actions runs before push/PR/tag. Never bypass branch protection. Preserve the repository's current public visibility. Do not change visibility or publish releases without explicit author authorization. Preserve existing tags and releases.
 - Work on codex/final-paper-companion-polish. Preserve user changes. Do not mutate the historical repository, invent a license, or delegate this task.
