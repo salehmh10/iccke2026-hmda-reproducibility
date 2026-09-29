@@ -21,6 +21,6 @@ Files beginning prompt2/prompt3 contain Development results. prompt4 tables pres
 
 Global SHAP columns keep raw-kUSD CatBoost/LightGBM and native log1p XGBoost separate. The weighted normalized-rank consensus is not raw SHAP addition. Gate importance concerns routing log-odds; residual importance concerns signed kUSD correction. Individual cases and explanations are excluded.
 
-Publication filtering uses the saved flags: only ELIGIBLE subgroup rows and DISPLAY group-decile rows remain. Original thresholds are group n>=200, tail n>=50, group-decile n>=30, intersection n>=500. Small-group labels, compositions and metrics are excluded together. All retained cell strings match their saved source rows. Fairness is descriptive, non-causal and non-legal.
+Publication filtering uses the saved flags: only ELIGIBLE subgroup rows and DISPLAY group-decile rows remain. Ordinary groups require n>=200, tail groups n>=50, and group-decile cells n>=30. Overall intersectional groups require n>=500; tail-restricted intersectional groups require n>=50. Publication retains the recorded eligibility/display flags. Small-group labels, compositions and metrics are excluded together. All retained cell strings match their saved source rows. Fairness is descriptive, non-causal and non-legal.
 
 The environment JSON has path-only publication redactions. Historical status fields and saved PASS labels refer to the original work; no tests were executed for this update.
