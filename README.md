@@ -4,11 +4,11 @@
 
 Saleh Mohammad Hasani and Reza Kazemeiny Moghaddam  
 Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran  
-ICCKE 2026, paper code 1059 (conference context supplied by the authors).
+ICCKE 2026, paper code 1059.
 
 This repository contains the code, original notebooks, configurations, and saved results for our HMDA classification and loan-amount regression study. Start with the [notebook index](notebooks/README.md) to explore the experiments. Applicant-level data and fitted models are not included.
 
-Version **1.0.0-rc3** is a private release candidate; releases remain drafts. Saved outputs come from earlier runs and were not regenerated during this publication update.
+The repository is publicly accessible. Version **1.0.0-rc3** contains the code, original notebooks, configurations, and saved results accompanying the paper. Saved outputs come from earlier runs and were not regenerated during publication.
 
 ## Read the work
 
@@ -61,4 +61,6 @@ The main limitations are reused Classification Test data, fallback interaction s
 
 ## Citation and license
 
-Use [CITATION.cff](CITATION.cff) for the author names and version. The [repository](https://github.com/salehmh10/iccke2026-hmda-reproducibility) currently requires authorized access. No project license has been selected; ownership and licensing remain an author decision before public release.
+Use [CITATION.cff](CITATION.cff) for the author names and version when citing this work.
+
+The [repository](https://github.com/salehmh10/iccke2026-hmda-reproducibility) is publicly accessible. No project-wide reuse license has been selected.

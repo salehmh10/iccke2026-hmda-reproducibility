@@ -1,8 +1,14 @@
 # Changelog
 
+## Unreleased
+
+- Made the repository publicly accessible.
+- Updated availability and citation wording.
+- Clarified the maintenance instructions without rerunning workflows or changing scientific artifacts.
+
 ## v1.0.0-rc3
 
-Documentation and release metadata cleanup. Clarifies the excluded cleaning notebook, overall versus tail intersection thresholds, and the scope of legacy rc1 maintenance tools. Improves notebook/table navigation and aligns package and citation versions. Existing notebooks, code, configurations and numerical evidence are unchanged. No notebook, research workflow, tests, or CI were run. Repository access remains private and the release remains a draft.
+Documentation and release metadata cleanup. Clarifies the excluded cleaning notebook, overall versus tail intersection thresholds, and the scope of legacy rc1 maintenance tools. Improves notebook/table navigation and aligns package and citation versions. Existing notebooks, code, configurations and numerical evidence are unchanged. No notebook, research workflow, tests, or CI were run. This release candidate was initially prepared in a private repository with a draft release.
 
 ## v1.0.0-rc2
 

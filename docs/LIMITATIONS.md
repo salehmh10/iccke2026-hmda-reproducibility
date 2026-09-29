@@ -11,7 +11,7 @@
 7. Direct sensitive fields are omitted from the main Regression contract, but `has_co_applicant` derives from co-applicant sex and geographic proxies remain.
 8. Paper code 1059/acceptance status is owner-supplied administrative context. A local acceptance letter was not identified.
 9. No new multi-seed, clustered-bootstrap, temporal, lender-held-out, external-source, causal, or legal evidence was produced. Classification Test reuse and Regression C2 failure remain scientific limitations, not packaging defects.
-10. No project license was found; author selection/permission is required before public publication. Data redistribution and code ownership require author review.
+10. No project-wide reuse license has been selected. Licensing and third-party permissions remain subject to the authors' review.
 
 ## Regression V2 limitations
 
@@ -56,4 +56,4 @@ The original data-cleaning notebook has personal filesystem paths in code, so it
 
 Duplicate notebook copies, backups, the redundant historical visual-summary notebook, and the newer five-way-split classifier are not promoted as manuscript Feature-V2. Only the retained generation supplies paper results. Missing historical helpers and protected runtime dependencies limit portability. Code and Markdown were not rewritten to hide these limits.
 
-The two authors must resolve ownership and licensing before any public release. Repository visibility stays private and releases stay draft. No new DOI, publication record or acceptance letter was created. Historical PASS outputs retain their original scope; this update makes no software-test or fresh reproduction claim.
+The repository is publicly accessible. Applicant-level data, fitted models, and private operational files are not distributed. No project-wide reuse license has been selected. No new DOI, publication record or acceptance letter was created. Historical PASS outputs retain their original scope; this update makes no software-test or fresh reproduction claim.
