@@ -2,6 +2,7 @@
 name = "iccke2026-hmda-reproducibility"
 version = "1.0.0rc3"
 description = "Code, original notebooks, and saved results for the HMDA tabular-learning study."
+license = { file = "LICENSE" }
 requires-python = ">=3.11"
 
 [tool.pytest.ini_options]
