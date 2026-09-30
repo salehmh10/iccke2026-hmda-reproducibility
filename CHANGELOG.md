@@ -5,6 +5,8 @@
 - Made the repository publicly accessible.
 - Updated availability and citation wording.
 - Clarified the maintenance instructions without rerunning workflows or changing scientific artifacts.
+- Added the MIT License for the authors' original code and documentation.
+- Clarified that HMDA data and third-party components remain subject to their own terms.
 
 ## v1.0.0-rc3
 

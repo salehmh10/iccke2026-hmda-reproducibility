@@ -63,4 +63,4 @@ The main limitations are reused Classification Test data, fallback interaction s
 
 Use [CITATION.cff](CITATION.cff) for the author names and version when citing this work.
 
-The [repository](https://github.com/salehmh10/iccke2026-hmda-reproducibility) is publicly accessible. No project-wide reuse license has been selected.
+Unless otherwise noted, the original code and documentation in this repository are licensed under the [MIT License](LICENSE). HMDA data are not redistributed, and third-party components remain subject to their own terms.

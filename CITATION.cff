@@ -3,6 +3,7 @@ message: "Please cite the associated paper and this repository when using these 
 title: "Reproducibility package: Boosting and Deep Tabular Learning on HMDA: Feature-Interaction Classification and Tail-Aware Loan-Amount Regression"
 type: software
 version: 1.0.0-rc3
+license: MIT
 authors:
   - family-names: "Mohammad Hasani"
     given-names: "Saleh"

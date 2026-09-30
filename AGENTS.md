@@ -8,4 +8,5 @@
 - Keep Classification generations and historical Regression separate. Retain denial-positive AP, reused-Test/fallback limits, the exact Regression routing formula and five-of-six result with C2 failed.
 - Use static reading, parsing, counts, comparisons, checksums and ZIP packaging only. Keep private operational notes outside tracked content. No new execution-success claims.
 - Verify GitHub identity salehmh10 before remote mutations. Prevent automatic Actions runs before push/PR/tag. Never bypass branch protection. Preserve the repository's current public visibility. Do not change visibility or publish releases without explicit author authorization. Preserve existing tags and releases.
-- Work on codex/final-paper-companion-polish. Preserve user changes. Do not mutate the historical repository, invent a license, or delegate this task.
+- Work on the explicitly requested feature branch. Preserve user changes. Do not mutate the historical repository or delegate this task.
+- Preserve the MIT License and existing copyright notices. Do not relicense HMDA data, external dependencies, third-party materials, or files not owned by the authors.
